@@ -1522,7 +1522,9 @@ Please try again.</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>你的一個或多個實例都來自這個相同的 %1 模組包。你想建立一個單獨的實例，還是更新現有的實例？
+
+注意：在更新之前，請確保你對你的重要實例資料進行了備份，因為世界可能會被損壞並且一些設定可能會遺失（由於包的覆蓋）。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
@@ -1547,7 +1549,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation></translation>
+        <translation>我們無法找到適合舊版本的索引文件。這可能會導致一些文件的重複。你想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
@@ -5633,7 +5635,9 @@ Please update %1!</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>你的一個或多個實例都來自這個相同的 %1 模組包。你想建立一個單獨的實例，還是更新現有的實例？
+
+注意：在更新之前，請確保你對你的重要實例資料進行了備份，因為世界可能會被損壞並且一些設定可能會遺失（由於包的覆蓋）。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
@@ -5658,7 +5662,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>我們無法找到適合舊版本的索引文件。這可能會導致一些文件的重複。你想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
