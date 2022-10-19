@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Ange en anpassad API-nyckel för CurseForge här. </translation>
+        <translation>Ange en anpassad API-nyckel för CurseForge här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -176,17 +176,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation>Väljer valfria mods…</translation>
+        <translation>Väljer valfria moddar…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="742"/>
         <source>Downloading mods...</source>
-        <translation>Laddar ner mods…</translation>
+        <translation>Laddar ner moddar…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation>Modnerladdning</translation>
+        <translation>Modnedladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
@@ -201,12 +201,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="886"/>
         <source>Failed to extract mods...</source>
-        <translation>Misslyckades med att extrahera mods…</translation>
+        <translation>Misslyckades med att extrahera moddar…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="897"/>
         <source>Extracting mods...</source>
-        <translation>Extraherar mods…</translation>
+        <translation>Extraherar moddar…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="970"/>
@@ -714,7 +714,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Välj mods att installera</translation>
+        <translation>Välj moddar att installera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -819,7 +819,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Kunde inte ladda eller ladda ner versionslistorna!</translation>
+        <translation type="unfinished">Kunde inte ladda eller ladda ned versionslistorna!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
@@ -1435,7 +1435,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation>Misslyckades att ladda ner följande filer:
+        <translation>Misslyckades att ladda ned följande filer:
 %1
 
 Anledning:%2
@@ -1577,12 +1577,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blockerade mods hittades</translation>
+        <translation type="unfinished">Blockerade moddar hittades</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished">De följande mods var blockerade på tredjepartslaunchers.&lt;br/&gt;Du kommer att behöva manuellt ladda ner dem och lägga till dem i modpacket.</translation>
+        <translation type="unfinished">De följande moddar var blockerade på tredjepartslaunchers.&lt;br/&gt;Du kommer att behöva manuellt ladda ned dem och lägga till dem i modpacket.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
@@ -1677,7 +1677,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">OBS! CurseForges API är väldigt opålitlig. CurseForge och vissa mod-författare har förbjudit nedladdningen av mods i tredjepartsprogram som PolyMC. Därför kan du kanske behöva manuellt ladda ner vissa mods för att kunna installera ett modpack.</translation>
+        <translation type="unfinished">OBS! CurseForges API är väldigt opålitlig. CurseForge och vissa mod-författare har förbjudit nedladdningen av moddar i tredjepartsprogram som PolyMC. Därför kan du kanske behöva manuellt ladda ned vissa moddar för att kunna installera ett modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1990,7 +1990,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Lokal fil eller länk till direktnerladdning:</translation>
+        <translation>Lokal fil eller länk till direktnedladdning:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -3384,7 +3384,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Misslyckades att ladda ner packlistorna: %1</translation>
+        <translation>Misslyckades att ladda ned packlistorna: %1</translation>
     </message>
 </context>
 <context>
@@ -3486,7 +3486,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="242"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Misslyckades att ladda ner packinformation för kod %1.
+        <translation>Misslyckades att ladda ned packinformation för kod %1.
 Ska den tas bort nu?</translation>
     </message>
     <message>
@@ -3763,7 +3763,7 @@ Anledning:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggar in med Microsoftkonto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
@@ -4234,7 +4234,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Ändra instansens inställningar, mods och versioner.</translation>
+        <translation>Ändra instansens inställningar, moddar och versioner.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -5425,12 +5425,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
         <source>Downloading mods...</source>
-        <translation>Laddar ner mods...</translation>
+        <translation>Laddar ner moddar...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="224"/>
         <source>Mod download</source>
-        <translation>Modnerladdning</translation>
+        <translation>Modnedladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="273"/>
@@ -5592,7 +5592,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">En eller fler mods från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade.</translation>
+        <translation type="unfinished">En eller fler moddar från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -7016,7 +7016,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation>Fråga om att ladda ner</translation>
+        <translation>Fråga om att ladda ned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
@@ -7211,7 +7211,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>Modpacknerladdning</translation>
+        <translation>Modpacknedladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
@@ -7816,7 +7816,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>Ladda ner filerna som krävs för att starta instansen nu.</translation>
+        <translation>Ladda ned filerna som krävs för att starta instansen nu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
@@ -7916,7 +7916,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="401"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>Kunde inte ladda eller ladda ner mellanmappningarnas versionslistor!</translation>
+        <translation>Kunde inte ladda eller ladda ned mellanmappningarnas versionslistor!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
@@ -7960,7 +7960,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation>Misslyckades att ladda ner eller ladda Fabric-laddarens versionslista!</translation>
+        <translation>Misslyckades att ladda ned eller ladda Fabric-laddarens versionslista!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
@@ -7990,7 +7990,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation>Misslyckades att ladda ner eller läsa listan över LiteLoader-versioner!</translation>
+        <translation>Misslyckades att ladda ned eller läsa listan över LiteLoader-versioner!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="615"/>
