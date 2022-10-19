@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alternativ oppstarter som gjør håndtering av Minecraft enklere ved å tillate deg å ha flere instanser av Minecraft gående samtidig.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan flyttes?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -476,12 +476,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Slett drakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished"></translation>
+        <translation>Slett aktiv drakt og ifør forvalg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -504,7 +504,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenoppfrisk kontosymbolene</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -565,12 +565,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sletting av drakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klarte ikke å slette nåværende drakt.</translation>
     </message>
 </context>
 <context>
@@ -593,7 +593,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient-ID har endret seg. Ny økt må opprettes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -1813,12 +1813,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Henter drakt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fikk tak i drakten</translation>
     </message>
 </context>
 <context>
@@ -1913,7 +1913,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Følgende filtyper er implementert (både for lokale filer og nettadresser):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -2976,7 +2976,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Brukergrensesnitt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
@@ -2992,7 +2992,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Etter &amp;navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
@@ -3007,17 +3007,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel (mørke ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel (lyse ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel (blå ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
@@ -3027,7 +3027,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3037,7 +3037,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skru av bruk av metadata for modder?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
@@ -3053,7 +3053,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Foreldet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3064,23 +3064,23 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Farger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktøy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menylinjen fungerer bedre for tastaturbasert interaksjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Erstatt verktøylinje med menylinje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
@@ -3120,7 +3120,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stopp loggføring når loggen er full</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
@@ -3347,12 +3347,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgave avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oppgave avbrutt av brukeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3440,7 +3440,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Getting the library files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter biblioteksfilene fra Mojang …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -3615,7 +3615,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne siden og kopier koden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -3754,7 +3754,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne %1-Matrixrommet</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3769,12 +3769,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne %1-sub-Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis info om %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
@@ -3785,7 +3785,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="468"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Få hjelp med %1 eller Minecraft.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -3812,17 +3812,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyhetsverktøylinje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere nyheter …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne utviklingsbloggen og les flere nyheter om %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="787"/>
@@ -3837,12 +3837,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Drep</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
@@ -3879,12 +3879,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord-tjener</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sub-Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
@@ -3899,7 +3899,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mjau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
@@ -3909,22 +3909,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="497"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
@@ -4001,12 +4001,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger notater …</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="703"/>
@@ -4229,17 +4229,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1220"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Start demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
@@ -4249,7 +4249,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 frakoblet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
@@ -4264,7 +4264,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1361"/>
@@ -4274,7 +4274,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1365"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
@@ -4316,22 +4316,22 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1841"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppenavn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1841"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn et nytt gruppenavn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Slett gruppe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slett «%1»-gruppen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2010"/>
@@ -4349,7 +4349,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Gi instansen nytt navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2236"/>
@@ -4424,7 +4424,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbrutt</translation>
     </message>
 </context>
 <context>
@@ -4484,7 +4484,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbrutt</translation>
     </message>
 </context>
 <context>
@@ -4642,7 +4642,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen har ingen Minecraft-profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
@@ -4671,12 +4671,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>En UUID kreves for å hente profilen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="58"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen har ingen Minecraft-profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
@@ -4708,7 +4708,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="66"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Vurder og bekreft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
@@ -4723,12 +4723,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned modder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="104"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft hvilke modder som skal lastes ned</translation>
     </message>
 </context>
 <context>
@@ -4751,12 +4751,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-versjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>klarte ikke å hente versjonsindeks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
@@ -4884,7 +4884,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned modder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
@@ -5139,7 +5139,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke generere metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
@@ -5236,7 +5236,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny versjon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
