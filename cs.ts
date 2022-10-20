@@ -2798,7 +2798,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Varování: tento projekt již není bezpečný, použijte prosím Prism Launcher!</translation>
+        <translation>Nevidíte svůj jazyk, nebo je jeho kvalita špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozte nám s překladem!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
