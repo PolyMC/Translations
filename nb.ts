@@ -470,7 +470,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>&amp;Last opp skall</translation>
+        <translation>&amp;Last opp drakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
@@ -6941,7 +6941,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="55"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletting av drakt</translation>
     </message>
 </context>
 <context>
@@ -6949,7 +6949,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinUpload.cpp" line="80"/>
         <source>Uploading skin</source>
-        <translation>Laster opp skin</translation>
+        <translation>Laster opp drakt</translation>
     </message>
 </context>
 <context>
@@ -6962,17 +6962,17 @@ New name: %2</source>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
-        <translation>Skin-opplasting</translation>
+        <translation>Draktopplasting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
         <source>Skin File</source>
-        <translation>Skin-fil</translation>
+        <translation>Draktfil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>La stå tom for å bruke nåværende drakt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -6997,37 +6997,37 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Å bruke nettadresser annensteds fra for å ikle drakt er ikke implementert enda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ikke bruke en ugyldig nettadresse til å laste opp drakter.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
-        <translation>Skin-fil eksisterer ikke!</translation>
+        <translation type="unfinished">Draktfilen finnes ikke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation>Kunne ikke laste opp skin!</translation>
+        <translation type="unfinished">Kunne ikke laste opp drakt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Success</source>
-        <translation>Suksess</translation>
+        <translation>Vellykket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
-        <translation>Velg skin-utseende</translation>
+        <translation>Velg drakttekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kappe</translation>
     </message>
 </context>
 <context>
