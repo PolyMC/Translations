@@ -350,7 +350,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Feilaktig</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
@@ -545,7 +545,9 @@ Hvis du er ny her, kan du trykke «Legg til»-knappen for å legge til Mojang- e
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-kontoer kan kun brukes på macOS 10.13 eller nyere, og helt oppdatert %1.
+
+Oppdater både operativsystemet og %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -560,7 +562,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn ditt ønskede brukernavn for å legge til din frakoblede konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -578,17 +580,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sender forespørsel til identitetbekreftelsestjenere …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identitetsbekreftelse fikset.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke kontakte identitetbekreftelsestjeneren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
