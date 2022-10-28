@@ -485,7 +485,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Sem padrão</translation>
+        <translation>&amp;Sem conta padrão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -502,7 +502,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Escluir a skin ativa e voltar para a padrão</translation>
+        <translation>Exclua a skin atualmente ativa e volte para a padrão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -4549,7 +4549,7 @@ Por favor, adicione a sua conta da Mojang ou do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Você tem certeza que deseja excluir o grupo %1?</translation>
+        <translation>Você tem certeza de que deseja excluir o grupo %1?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -6112,7 +6112,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
