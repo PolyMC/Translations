@@ -211,12 +211,12 @@
             "untranslated" : 111
         },
         "ja" : {
-            "file" : "77edc3a03b235ca45a1479f97856b5e0e392b0c7.class",
-            "sha1" : "77edc3a03b235ca45a1479f97856b5e0e392b0c7",
-            "size" : 85511,
-            "translated" : 718,
-            "fuzzy" : 131,
-            "untranslated" : 565
+            "file" : "581c091d16e4d9f7bb2a8d989f5de49f8e981f71.class",
+            "sha1" : "581c091d16e4d9f7bb2a8d989f5de49f8e981f71",
+            "size" : 90151,
+            "translated" : 755,
+            "fuzzy" : 127,
+            "untranslated" : 532
         },
         "ja_KANJI" : {
             "file" : "f34c2ccfe38a3ec6ee7e525fe26e174a3e93ea6d.class",
