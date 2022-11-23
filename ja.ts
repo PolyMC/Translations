@@ -1037,7 +1037,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch コマンドはインスタンスが起動する前に、post-exitコマンドはインスタンスが終了した後に実行されます。&lt;/p&gt;&lt;p&gt;どちらもランチャーの作業フォルダ内で、環境変数が追加された状態で実行されます。:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンス名&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスのID(インスタンスのフォルダ名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスへの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftへの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動時に使用するJavaのバイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動時に使用するコマンドラインパラメーター (警告: 引数にスペースが含まれる場合、正しく動作しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapperコマンドは、追加のラッパー・プログラム(Linuxの&apos;optirun&apos;など)を使って起動することができます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1400,12 +1400,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FMLライブラリをダウンロードしています...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -1453,34 +1453,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForgeのMODを準備しています...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>無効化されたMODは、MODの重複問題を防ぐために更新されません!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge から &apos;%1&apos; の APIレスポンスを取得しています...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge からの &apos;%1&apos; の API レスポンスを解析しています...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMODに対応しているバージョンは見つかりませんでした。現在のゲームバージョンかMODローダーが対応していない可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>このMODは新しいアップデートが利用可能ですが、CurseForgeを使用してダウンロードすることはできません。</translation>
     </message>
 </context>
 <context>
@@ -1490,66 +1490,69 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>パックマニフェストの解釈に失敗しました。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (バージョン %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>類似のMODパックが見つかりました！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたのインスタンスの1つ以上は、同様のMODパック%1のものです。別のインスタンスを作成しますか、それとも既存のインスタンスを更新しますか？
+
+注意: アップデートする前に、インスタンスのバックアップをおすすめします。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>既存のインスタンスを更新する</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>新規インスタンスを作成</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>インデックスファイルではありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>旧バージョンに対応したインデックスファイルが見つかりませんでした。そのため、一部のファイルが重複している可能性があります。続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">上書きフォルダの名前を変更できませんでした:
+        <translation>overridesフォルダの名前を変更できませんでした:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">指定された上書きフォルダ(%1)がありません。modpackは以前から使われていたのでしょうか?</translation>
+        <translation>指定されたoverridesフォルダ(%1)がありません。以前使用したMODパックの可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">マニフェストに不明なModローダーがあります: %1</translation>
+        <translation>マニフェストに不明なMODローダーがあります: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
@@ -1565,23 +1568,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Mod ID を処理できません。
+        <translation>Mod ID を解決出来ませんでした:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされているMODが見つかりました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のMODはサードパーティ製ランチャーでブロックされました。&lt;br/&gt;手動でダウンロードし、MODパックに追加する必要があります</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
@@ -1591,7 +1594,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">Modパックの中にさらにModパックが入ったものはサポートされていません。何もダウンロードされませんでした: %1</translation>
+        <translation>Modパック内にModパックが入ったものはサポートされていないため、ダウンロードされません: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
@@ -1601,7 +1604,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>MODをダウンロードしています...</translation>
     </message>
 </context>
 <context>
@@ -1618,7 +1621,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>人気順で並べ替え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
@@ -1629,7 +1632,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名前で並び替え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
@@ -1639,7 +1642,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード数で並び替え</translation>
     </message>
     <message>
         <source> by </source>
@@ -1666,7 +1669,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>注意：CurseForgeでは、クリエイターがPolyMCのようなサードパーティツールへのアクセスをブロックすることができます。そのため、MODパックをインストールするためには、いくつかのMODを手動でダウンロードする必要があるかもしれません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1718,7 +1721,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョンがありません!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
@@ -1728,22 +1731,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="242"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>外部リンク:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="246"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>課題: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="248"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィキ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ソースコード: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1761,19 +1764,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">プレイ回数順</translation>
+        <translation>プレイ回数で並べ替え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">インストール数順</translation>
+        <translation>インストール数で並び替え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">名前順</translation>
+        <translation>名前で並び替え</translation>
     </message>
 </context>
 <context>
@@ -1781,7 +1784,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>バージョン:</translation>
+        <translation>選択されたバージョン:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
@@ -1853,12 +1856,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>スキンを取得</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>スキンを取得しました</translation>
     </message>
 </context>
 <context>
@@ -1896,12 +1899,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
         <source>Downloading one update file.</source>
-        <translation>1つの更新ファイルをダウンロード中.</translation>
+        <translation>1つの更新ファイルをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="144"/>
         <source>Downloading %1 update files.</source>
-        <translation>%1 更新ファイルをダウンロード中.</translation>
+        <translation>%1 の更新ファイルをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
@@ -1953,33 +1956,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のファイル形式が実装されています(ローカルファイルとURLの両方):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForgeのMODパック(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- ModrinthのMODパック (ZIPもしくはmrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- PolyMC / MultiMCで出力されたインスタンス(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- TechnicのMODパック (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>ローカルファイルへのパスあるいは直接ダウンロードのリンク:</translation>
+        <translation>ローカルファイルへのパスあるいはダウンロードリンク:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -1990,7 +1993,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modrinthパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
@@ -2015,12 +2018,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>名前:</translation>
+        <translation>&amp;名前:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>グループ:</translation>
+        <translation>&amp;グループ:</translation>
     </message>
 </context>
 <context>
@@ -2050,17 +2053,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいインスタンスを作成する際にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>競合した古いファイルを削除しています...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>競合した古いファイルの削除に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -2075,7 +2078,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="93"/>
         <source>Modpack download</source>
-        <translation>Modパック ダウンロード</translation>
+        <translation>Modパックのダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
@@ -2085,18 +2088,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="138"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>指定したModPackのzipファイルを開けません。</translation>
+        <translation>指定したModパックのzipファイルを開けません。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="254"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>アーカイブにはModパックが含まれていないようです。</translation>
+        <translation>このアーカイブにはModパックが含まれていません。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
         <source>Failed to extract modpack</source>
-        <translation>Modパックの展開に失敗</translation>
+        <translation>Modパックの展開に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
@@ -3918,7 +3921,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンスを追加...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
@@ -4382,7 +4385,8 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>少なくとも1つのアカウントが追加されていないと、Minecraftのダウンロードやインスタンスのアップデートができません。
+Mojang または Minecraft のアカウントを追加してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1841"/>
@@ -5307,7 +5311,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新バージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
@@ -6576,8 +6580,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;を使用して)手動で設定しようとしました。
-設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。
+        <translation>JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;を使用して)手動で設定しようとしています。
+設定のメモリオプションを使用してください。(Javaタブ内のメモリーから設定できます)
 このメッセージは、JVM引数から削除するまで表示されます。</translation>
     </message>
     <message>
@@ -6590,7 +6594,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>JVMに必要なJavaバージョンを指定する引数(&quot;-version:xxx &quot;)を使用しています。これは安全ではないため、許可されません。
+このメッセージは、JVMの引数からこれを削除するまで表示されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -8470,7 +8475,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークに問題発生したため、Mojangアカウントを認証できませんでした。</translation>
     </message>
 </context>
 </TS>
