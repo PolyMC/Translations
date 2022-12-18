@@ -5432,7 +5432,7 @@ Por favor atualize o %1!</translation>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Possível solução: Obtendo a versão mais recente manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Possível solução: Obter a versão mais recente manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
