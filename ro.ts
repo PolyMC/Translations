@@ -5662,7 +5662,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Se execută %1 sarcini (%2 din %3 sunt finalizate)</translation>
     </message>
 </context>
 <context>
@@ -5670,17 +5670,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugați o componentă goală</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation type="unfinished"></translation>
+        <translation>uid</translation>
     </message>
 </context>
 <context>
@@ -5689,22 +5689,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>New Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanță nouă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Grup:</translation>
+        <translation>&amp;Grup:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nume:</translation>
+        <translation>&amp;Nume:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
         <source>No group</source>
-        <translation type="unfinished">Fără grup</translation>
+        <translation>Fără grup</translation>
     </message>
 </context>
 <context>
@@ -5713,7 +5713,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/news/NewsChecker.cpp" line="118"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit încărcarea fluxului RSS de știri:
+%1</translation>
     </message>
 </context>
 <context>
@@ -5721,23 +5722,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Noutăți</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închideți</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascundeți lista de articole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișați lista de articole</translation>
     </message>
 </context>
 <context>
@@ -5746,13 +5747,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără titlu</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără conținut.</translation>
     </message>
 </context>
 <context>
@@ -5760,7 +5761,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notițe</translation>
     </message>
 </context>
 <context>
@@ -5768,7 +5769,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/NullInstance.h" line="59"/>
         <source>Unknown instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip de instanță necunoscut</translation>
     </message>
 </context>
 <context>
@@ -5776,22 +5777,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">Adaugă cont</translation>
+        <translation>Adaugă cont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume de utilizator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele de utilizator mai lungi de 16 caractere nu pot fi folosite pentru jocuri LAN sau servere în modul offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Permiteți nume de utilizator lungi</translation>
     </message>
 </context>
 <context>
@@ -5799,12 +5800,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se creeaza un cont offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fost creat un cont offline.</translation>
     </message>
 </context>
 <context>
@@ -5812,119 +5813,121 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="42"/>
         <source>Find</source>
-        <translation type="unfinished">Găsește</translation>
+        <translation>Găsiți</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați întregul jurnal în clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți jurnalul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Ștergere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Încărcați jurnalul la serviciul de copy-paste configurat în preferințe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
         <source>Upload</source>
-        <translation type="unfinished">Încărcaţi</translation>
+        <translation>Încărcaţi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="100"/>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Curățare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="107"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncărcare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="126"/>
         <source>Search:</source>
-        <translation type="unfinished">Caută:</translation>
+        <translation>Caută:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide %1 pentru citire: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul (%1) este prea mare. Este posibil să doriți să îl deschideți într-un program de vizualizare optimizat pentru fișiere mari.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
         <source>The file (%1) is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul (%1) nu poate fi citit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate șterge %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
         <source>Clean up</source>
-        <translation type="unfinished"></translation>
+        <translation>Curățare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>Do you really want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți toate fișierele jurnal?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți aceste fișiere?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu am putut șterge unele fișiere!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut șterge unele fișiere:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte jurnale</translation>
     </message>
 </context>
 <context>
@@ -5932,17 +5935,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="374"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandonat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="641"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="643"/>
         <source>Version</source>
-        <translation type="unfinished">Versiune</translation>
+        <translation>Versiune</translation>
     </message>
 </context>
 <context>
@@ -5950,35 +5953,36 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="142"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare către %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="159"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare de rețea: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="166"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: %1 a returnat codul de stare neașteptat %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="187"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: %1 a returnat un răspuns malformat</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: %1 a returnat o eroare: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: %1 a returnat un cod de eroare: %2
+Mesaj de eroare: %3</translation>
     </message>
 </context>
 <context>
@@ -5986,22 +5990,22 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviciul implicit de copy-paste s-a schimbat în mclo.gs, vă rugăm să alegeți ce doriți să faceți cu setările dumneavoastră.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați noul serviciu implicit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Păstrați setările anterioare</translation>
     </message>
 </context>
 <context>
@@ -6010,21 +6014,25 @@ Error message: %3</source>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se execută comanda post-lansare: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="70"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Comanda post-lansare a eșuat cu codul %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="93"/>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Comanda post-lansare a fost executată cu succes.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6033,21 +6041,25 @@ Error message: %3</source>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se execută comanda de pre-lansare: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="70"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Comanda de pre-lansare a eșuat cu codul %1.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="93"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Comanda de pre-lansare a fost executată cu succes.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6055,33 +6067,33 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un cont</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați ca implicit?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se utilizează implicit numai pentru această instanță?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (în uz)</translation>
     </message>
 </context>
 <context>
@@ -6089,44 +6101,46 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți un nume Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai e nevoie doar de un pas pentru a putea juca Minecraft pe acest cont.
+
+Alegeți cu grijă numele:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele este prea scurt - trebuie să aibă între 3 și 16 caractere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilul Minecraft cu numele %1 există deja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele %1 nu este permis.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stare de nume de profil neacoperită: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificarea disponibilității numelui a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="271"/>
         <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul a returnat următoarea eroare:</translation>
     </message>
 </context>
 <context>
@@ -6134,22 +6148,22 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="18"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Așteptați...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Starea sarcinilor globale...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
         <source>Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Starea sarcinii...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Sari</translation>
     </message>
 </context>
 <context>
@@ -6157,50 +6171,50 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest lucru se aplică numai pentru Launcher. Minecraft nu acceptă setările proxy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished">Tip</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează setările proxy implicite ale sistemului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Implicit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fără</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adresă și Port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
