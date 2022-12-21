@@ -55,17 +55,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Adițional</translation>
+        <translation>Adițional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation type="unfinished">User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished">Introdu un User Agent personalizat. String-ul special $LAUNCHER_VER va fi inlocuit cu versiunea launcherului.</translation>
+        <translation>Introdu un User Agent personalizat. String-ul special $LAUNCHER_VER va fi înlocuit cu versiunea launcherului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Puteți seta acest câmp cu un server de metadate terț pentru a folosi librării modificate sau hack-uri diverse.</translation>
+        <translation>Puteți seta această opțiune către un server de metadate de la o terță parte pentru a utiliza librării modificate sau alte hack-uri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -6206,23 +6206,23 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume utilizator:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Notă: Numele de utilizator și parola Proxy sunt stocate necriptate în fișierul de configurare al launcher-ului!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy</translation>
     </message>
 </context>
 <context>
@@ -6230,42 +6230,42 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="47"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="157"/>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Nu există modificări de cod între versiunea cea mai recentă și cea curentă %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="161"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Următoarele commit-uri au fost adăugate de la ultima actualizare:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="168"/>
         <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Actualizarea elimină %1 commit-uri și adaugă următoarele %2:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="171"/>
         <source>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Puteți &lt;a href=&quot;%1&quot;&gt;vizualiza modificările pe GitHub&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Site web</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
@@ -6273,68 +6273,68 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dezvoltatori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="84"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Contributori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cu mulțumiri pentru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (în uz)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="64"/>
         <source>Upload failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare eșuată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare finalizată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="76"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Linkul către jurnalul încărcat&lt;/a&gt; a fost plasat în clipboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul specificat fie nu există, fie nu este un executabil corespunzător.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binarul Java specificat nu a pornit corect.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="307"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binarul Java specificat a returnat rezultate neașteptate:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="318"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Testul Java a reușit!&lt;br /&gt;Platforma raportată: %1&lt;br /&gt;Versiunea Java raportată: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Succes test Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
@@ -6342,153 +6342,159 @@ Choose your name carefully:</source>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Eșec test Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="67"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="284"/>
         <source>Patch is not loaded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patch-ul nu este încă încărcat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>processArguments este setat la valoarea necunoscută &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea &quot;minimumLauncherVersion&quot; a acestei versiuni (%1) este mai mare decât cea acceptată de %3 (%2). Este posibil să nu funcționeze corect!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele bibliotecii %1 este defect și nu poate fi procesat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea invalidă a fișierului de componente, se aștepta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="206"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține atât &quot;+libraries&quot;, cât și &quot;libraries&quot;. Acest lucru nu mai este suportat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-ul pentru jar-ul principal nu a putut fi determinat - Mojang a eliminat serverul folosit ca soluție de rezervă.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține un element neacceptat &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține un element neacceptat &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține un element neacceptat &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține un element neacceptat &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de versiune conține un element neacceptat &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
         <source>Assets for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurse pentru %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="86"/>
         <source>Invalid order file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune invalidă a fișierului de comandă, se așteapta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="131"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut deschide fișierul de versiune %1: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="152"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut procesa versiunea de fișier %1: %2 la linia %3 coloana %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără profil (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
         <source>Update failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea a eșuat!</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="353"/>
         <source>Rollback failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Rollback-ul a eșuat!</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut înlocui fișierul %1. Modificările vor fi anulate.
+Consultați fișierul jurnal %2 pentru detalii.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut elimina fișierul %1. Modificările vor fi anulate.
+Consultați fișierul jurnal %2 pentru detalii.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="378"/>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
-        <translation type="unfinished"></translation>
+        <translation>Noua versiune nu a pornit sau este prea veche și nu răspunde la verificările de pornire.
+
+Reveniți la versiunea anterioară?</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="400"/>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Și rollback-ul a eșuat.
+Va trebui să reparați manual %1.
+Vă rugăm să ne spuneți cum s-a întâmplat acest lucru.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1m %2s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h %2m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2h %3m</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -6498,101 +6504,104 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ați încercat să setați manual o opțiune de memorie JVM (utilizând &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; sau &quot;-Xms&quot;).
+Există căsuțe dedicate pentru acestea în setări (fila Java, în grupul Memory din partea de sus).
+Acest mesaj va fi afișat până când le veți elimina din argumentele JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
         <location filename="src/launcher/JavaCommon.cpp" line="63"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertisment privind argumentele JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ați încercat să treceți argumentul necesar versiunii Java către JVM (utilizând &quot;-version:xxx&quot;). Acest lucru nu este sigur și nu va fi permis.
+Acest mesaj va fi afișat până când veți elimina acest lucru din argumentele JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Testul Java a reușit!&lt;br /&gt;Platforma raportată: %1&lt;br /&gt;Versiunea Java raportată: %2&lt;br /&gt;Furnizorul Java raportat: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Avertismente:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binarul Java specificat nu a funcționat cu argumentele pe care le-ați furnizat:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Binarul Java specificat nu a funcționat.&lt;br /&gt;Ar trebui să utilizați funcția de detectare automată sau să setați manual calea de acces la executabilul Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nu a putut fi găsită biblioteca Java checker. Vă rugăm să verificați instalarea.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
         <source>Download of meta file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcarea fișierului meta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="140"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="153"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="166"/>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune cu format necunoscut!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale goală</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="98"/>
         <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale invalidă către JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea nu există</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="110"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalare JProfiler invalidă</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="31"/>
         <source>Path is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea este goală</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="42"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea nu pare a fi o cale MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără autor(i)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați numele instanței</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -6600,7 +6609,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele instanței pare să includă versiunea veche. Doriți să o actualizați?
+
+Numele vechi: %1
+Nume nou: %2</translation>
     </message>
 </context>
 <context>
@@ -6608,30 +6620,30 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="444"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="446"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima modificare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="454"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Este activată resursa?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="457"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Numele resursei.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="460"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Data și ora la care această resursă a fost modificată (sau adăugată) ultima dată.</translation>
     </message>
 </context>
 <context>
@@ -6639,44 +6651,44 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerecunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ID-ul formatului pachetului de resurse, precum și versiunile Minecraft pentru care a fost conceput.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatul pachetului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>Last changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima modificare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Este activat pachetul de resurse? (valabil numai pentru ZIP-uri)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele pachetului de resurse.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Data și ora la care acest pachet de resurse a fost modificat (sau adăugat) ultima dată.</translation>
     </message>
 </context>
 <context>
@@ -6684,7 +6696,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="54"/>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachete de resurse</translation>
     </message>
 </context>
 <context>
@@ -6692,27 +6704,27 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmați selecția de moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți pe cale să descărcați următoarele moduri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar modurile cu bifă vor fi descărcate!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Înapoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="35"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume de fișier: %1</translation>
     </message>
 </context>
 <context>
@@ -6720,87 +6732,87 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished">Încărcaţi</translation>
+        <translation>Încărcare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Ștergere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished">Vizualizați dosarul</translation>
+        <translation>Vizualizați dosarul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiere imagine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiere fișier(e)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturi de ecran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="322"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit încarcarea capturilor de ecran!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="397"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare necunoscută</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare finalizată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="407"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Linkul către captura de ecran încărcată&lt;/a&gt; a fost plasat în clipboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Linkul către albumul încărcat&lt;/a&gt; a fost plasat în clipboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>Are you sure?</source>
-        <translation type="unfinished">Sunteți sigur?</translation>
+        <translation>Sunteți sigur?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>This will delete all selected screenshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest lucru va șterge toate capturile de ecran selectate.</translation>
     </message>
 </context>
 <context>
@@ -6808,12 +6820,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Una dintre sarcini a eșuat!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Executarea sarcinii %1 din %2</translation>
     </message>
 </context>
 <context>
@@ -6821,17 +6833,17 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="333"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="335"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="337"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Latență</translation>
     </message>
 </context>
 <context>
@@ -6839,72 +6851,72 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitați să descărcați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcați întotdeauna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu descărcați niciodată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
         <source>Add</source>
-        <translation type="unfinished">Adăugaţi</translation>
+        <translation>Adăugaţi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminaţi</translation>
+        <translation>Eliminaţi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutați în sus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutați în jos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Alăturați-vă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="67"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="654"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
 </context>
 <context>
@@ -6912,27 +6924,27 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="28"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Următor &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Înapoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Finisare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Actualizare</translation>
+        <translation>&amp;Actualizare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Configurare rapidă</translation>
     </message>
 </context>
 <context>
@@ -6940,7 +6952,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="54"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachete Shader</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +6960,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="55"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Se șterge Skin-ul</translation>
     </message>
 </context>
 <context>
@@ -6956,7 +6968,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinUpload.cpp" line="80"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Se încarcă Skin-ul</translation>
     </message>
 </context>
 <context>
@@ -6969,57 +6981,57 @@ New name: %2</source>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
         <source>Skin File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Lăsați gol pentru a păstra Skin-ul actual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelul de jucător</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model Steve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model Alex</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Capă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizarea URL-urilor externe pentru setarea Skin-ului nu este încă funcțională.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți utiliza o adresă URL invalidă pentru a încărca Skin-uri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul Skin nu există!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit încărcarea skin-ului!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
@@ -7029,12 +7041,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără capă</translation>
     </message>
 </context>
 <context>
@@ -7043,38 +7055,38 @@ New name: %2</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Se descarcă modpackul:
+        <translation>Se descarcă modpackul:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Descărcare modpack</translation>
+        <translation>Descărcare modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Se extrage modpackul</translation>
+        <translation>Se extrage modpackul</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
+        <translation>Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Extragerea modpackului a eșuat</translation>
+        <translation>Extragerea modpackului a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nu s-au putut repara permisiunile pentru %1</translation>
+        <translation>Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Importarea instanței a fost anulata.</translation>
+        <translation>Importul instanței a fost întrerupt.</translation>
     </message>
 </context>
 <context>
@@ -7083,40 +7095,40 @@ New name: %2</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descoperă fișierele modpackului</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descarcă modpackul</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nu s-a putut înțelege manifestul pachetului:
+        <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Se extrage modpackul</translation>
+        <translation>Se extrage modpackul</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Extragerea modpackului a eșuat</translation>
+        <translation>Extragerea modpackului a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nu s-au putut repara permisiunile pentru %1</translation>
+        <translation>Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Importarea instanței a fost anulata.</translation>
+        <translation>Importul instanței a fost întrerupt.</translation>
     </message>
 </context>
 <context>
@@ -7124,51 +7136,53 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposibil de deschis &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut găsi &quot;version.json&quot; în &quot;bin/modpack.jar&quot;, dar versiunea Minecraft este necunoscută</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; invalid!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi un fișier &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut înțelege &quot;version.json&quot;:
+inheritsFrom lipsește</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut înțelege &quot;version.json&quot;:
+</translation>
     </message>
 </context>
 <context>
@@ -7176,23 +7190,23 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versiunea selectată:</translation>
+        <translation>Versiune selectată:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Caută si filtrează...</translation>
+        <translation>Căutați și filtrați...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Căutare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"> de </translation>
+        <translation> de </translation>
     </message>
 </context>
 <context>
@@ -7200,7 +7214,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="55"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachete de texturi</translation>
     </message>
 </context>
 <context>
@@ -7211,7 +7225,10 @@ inheritsFrom is missing</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 tradus
+%3 fuzzy
+%4 total</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="463"/>
@@ -7221,17 +7238,17 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="467"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Completitudine</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="477"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele limbii materne.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="481"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Completitudinea este procentul de șiruri de caractere complet traduse, fără a le lua în considerare pe cele ghicite automat.</translation>
     </message>
 </context>
 <context>
@@ -7239,14 +7256,16 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="23"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarcină anulată.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea instanței a eșuat deoarece: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -7255,7 +7274,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualizare Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -7265,17 +7284,17 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="74"/>
         <source>Don&apos;t update yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu actualizați încă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="52"/>
         <source>A new %1 update is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>O nouă actualizare %1 este disponibilă!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="56"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au găsit actualizări %1. Rulați cea mai recentă versiune.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
@@ -7285,12 +7304,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;h1&gt;Se încarcă jurnalul de modificări...&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="200"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Nu s-a reușit să se obțină istoricul de modificări. Eroare: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -7298,7 +7317,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Se creează instanță din versiunea %1</translation>
+        <translation>Se creează o instanță a versiunii %1</translation>
     </message>
 </context>
 <context>
@@ -7311,88 +7330,88 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lansări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshot-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshot-uri vechi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiuni Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiuni Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Experimente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished">Actualizare</translation>
+        <translation>Reîmprospătare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcător de moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciunul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este selectată nicio versiune Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este selectat niciun încărcător de moduri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nici o versiune momentan disponibilă pentru Minecraft %1</translation>
+        <translation>În prezent nu sunt disponibile versiuni pentru Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7400,18 +7419,19 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea Java majoră este incompatibilă. Lucrurile s-ar putea strica.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Această instanță nu este compatibilă cu versiunea Java %1.
+Vă rugăm să schimbați versiunea de Java aferentă instanței la una din următoarele:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune Java %1</translation>
     </message>
 </context>
 <context>
@@ -7419,7 +7439,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent, nu sunt disponibile versiuni.</translation>
     </message>
 </context>
 <context>
@@ -7427,122 +7447,122 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Change version</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați versiunea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
         <source>Change version of the selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați versiunea pachetului selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutați în sus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Make the selected package apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți ca pachetul selectat să se aplice mai repede.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutați în jos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
         <source>Make the selected package apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți ca pachetul selectat să se aplice ulterior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminaţi</translation>
+        <translation>Eliminaţi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
         <source>Remove selected package from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminați pachetul selectat din instanță.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
         <source>Customize selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificați pachetul selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
         <source>Edit selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editați pachetul selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
         <source>Revert the selected package to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurați pachetul selectat la valoarea implicită.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Install Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați pachetul Minecraft Forge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
         <source>Install Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install the Fabric Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați pachetul Fabric Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați pachetul Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
         <source>Install LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install the LiteLoader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați pachetul LiteLoader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
@@ -7552,42 +7572,42 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Install normal mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați moduri normale.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
         <source>Add to Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugați la Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugați un mod în fișierul jar Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiți Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugați gol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
         <source>Add an empty custom package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adăugați un pachet modificat gol.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncărcare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
         <source>Reload all packages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncărcați toate pachetele.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
@@ -7597,42 +7617,42 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcați fișierele necesare pentru a lansa instanța acum.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți dosarul .minecraft al instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți librăriile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți dosarul librăriilor locale ale instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 poate avea probleme.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 are probleme!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
@@ -7657,118 +7677,119 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Nu s-a putut încărca profilul instanței.</translation>
+        <translation>Nu s-a putut încărca profilul instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="309"/>
         <source>Couldn&apos;t remove file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut șterge fișierul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați mod-uri jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-uri Minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuire Minecraft.jar (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați versiunea %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent, nu sunt disponibile versiuni de mapare intermediare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="401"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut încărca sau descărca listele intermediare de mapări ale versiunilor!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți descărca Minecraft sau actualiza instanțe decât dacă aveți cel puțin un cont adăugat.
+Vă rugăm să vă adăugați contul Mojang sau Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Select Forge version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați versiunea de Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent nu sunt disponibile versiuni de Forge pentru Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut încărca sau descărca listele de versiuni Forge!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Select Fabric Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați versiunea de Fabric Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="485"/>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent nu sunt disponibile versiuni de Fabric Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut încărca sau descărca listele de versiuni Fabric Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați versiunea de Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent nu sunt disponibile versiuni de Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut încărca sau descărca listele de versiuni Quilt Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
         <source>Select LiteLoader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați versiunea LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent nu sunt disponibile versiuni LiteLoader pentru Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut încărca sau descărca listele de versiuni LiteLoader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="615"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare la actualizarea instanței</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
@@ -7791,7 +7812,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramura</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
@@ -7806,7 +7827,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
@@ -7826,12 +7847,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramura versiunii</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipul versiunii</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
@@ -7841,7 +7862,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea în sistemul de fișiere către această versiune</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
@@ -7875,7 +7896,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncarcă lista de versiuni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
@@ -7894,7 +7915,8 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea listei a eșuat:
+%1</translation>
     </message>
 </context>
 <context>
@@ -7918,27 +7940,27 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denumirea lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul de joc al lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data și ora la care lumea a fost jucată ultima dată.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea lumii de pe disc.</translation>
     </message>
 </context>
 <context>
@@ -7946,7 +7968,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
@@ -7971,12 +7993,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie Seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
@@ -7991,22 +8013,22 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare pictogramă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stergeți pictograma lumii pentru ca jocul să o genereze din nou la următoarea încărcare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapack-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionați datapack-urile în interiorul lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
@@ -8016,7 +8038,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="131"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="186"/>
@@ -8029,49 +8051,54 @@ Please add your Mojang or Minecraft account.</source>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest lucru va elimina definitiv lumea selectată.
+Lumea va dispărea pentru totdeauna (O PERIOADĂ LUNGĂ).
+
+Doriți să continuați?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide dosarul cu Datapack-uri pentru lumi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți lumea în MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nu a fost găsit, sau nu a fost configurat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți MCEdit configurat sau a fost mutat.
+Îl puteți configura în setările globale.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nu a reușit să pornească!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nu a reușit să pornească.
+Este posibil să fie necesară reinstalarea acestuia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați o lume Minecraft zip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier Zip Lume Minecraft (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
@@ -8082,7 +8109,8 @@ It may be necessary to reinstall it.</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificarea unei lumi în timp ce Minecraft rulează este potențial nesigur.
+Doriți să continuați?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
@@ -8093,17 +8121,17 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nume nou pentru copie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumiți lumea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nume nou pentru lume.</translation>
     </message>
 </context>
 <context>
@@ -8111,72 +8139,76 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="22"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obținerea autorizației de acces la serviciile %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit obținerea autorizației pentru serviciile %1. Eroare %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare STS necunoscută pentru serviciile %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit obținerea autorizației pentru serviciile %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut analiza răspunsul de autorizare pentru accesul la serviciile %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="101"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul a modificat hash-ul de autorizare al utilizatorului (%1 ) în răspuns. Ceva nu este în regulă.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="108"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Am primit autorizația de a accesa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate analiza răspunsul la eroarea de autorizare %1 ca JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementul XErr lipsește din răspunsul la eroarea de autorizare %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest cont Microsoft nu are un profil XBox Live. Cumpărați mai întâi jocul de pe %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live nu este disponibil în țara dumneavoastră. Ați fost blocat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest cont Microsoft aparține unui minor și nu este legat de o familie.
+
+Vă rugăm să vă configurați contul în conformitate cu %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea XSTS s-a încheiat cu următoarele erori:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -8184,18 +8216,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obținerea profilului Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit obținerea profilului Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="81"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Am obținut profilul Xbox</translation>
     </message>
 </context>
 <context>
@@ -8203,23 +8235,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="16"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea ca utilizator Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea utilizatorului XBox a eșuat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Răspunsul de autentificare a utilizatorului XBox nu a putut fi înțeles.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Am primit un token de utilizator Xbox</translation>
     </message>
 </context>
 <context>
@@ -8227,67 +8259,67 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="188"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul de autentificare nu a trimis un token de client.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="195"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul de autentificare a încercat să schimbe token-ul clientului. Acest lucru nu este suportat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="204"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul de autentificare nu a trimis un token de acces.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul de autentificare nu a trimis un profil selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul de autentificare nu a trimis un UUID în profilul selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
         <source>Authentication operation timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operațiunea de autentificare a expirat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operațiunea de autentificare a fost anulată.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake a eșuat.&lt;/b&gt;&lt;br/&gt;S-ar putea să existe câteva cauze:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Dacă utilizați Windows și trebuie să vă actualizați certificatele root, vă rugăm să instalați toate actualizările restante.&lt;/li&gt;&lt;li&gt;Un dispozitiv din rețeaua dvs. interferează cu traficul SSL. În acest caz, aveți griji mai mari decât faptul că Minecraft nu pornește.&lt;/li&gt;&lt;li&gt;Posibil altceva. Verificați fișierul jurnal pentru detalii&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contul Mojang nu mai există. Este posibil să fi fost migrat către un cont Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Operațiunea de autentificare a eșuat din cauza unei erori de rețea: %1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a reușit analizarea răspunsului JSON al serverului de autentificare: %1 la deplasamentul %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare necunoscută în comunicarea cu serverul de autentificare: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-a produs o eroare Yggdrasil necunoscută.</translation>
     </message>
 </context>
 <context>
@@ -8295,22 +8327,22 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectare în curs folosind contul Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificat cu Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea utilizatorului Mojang a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificarea utilizatorului cu Mojang s-a încheiat cu o eroare de rețea.</translation>
     </message>
 </context>
 </TS>
