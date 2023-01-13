@@ -259,7 +259,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -289,17 +289,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohjelman päivämäärä: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -361,7 +361,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erääntynyt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
@@ -446,7 +446,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>Voiko tämän tilin siirtää Microsoft tiliin?</translation>
+        <translation>Voiko tämän tilin siirtää Microsoft-tiliin?</translation>
     </message>
 </context>
 <context>
@@ -554,7 +554,9 @@ Jos olet uusi täällä, voit klikata &quot;Lisää&quot;-painiketta lisätäkse
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-tilit ovat käytettävissä vain macOS versiolla 10.13 tai uudemmalla, ja päivitetyllä %1
+
+Ole hyvä ja päivitä käyttöjärjestelmäsi sekä %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -627,7 +629,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon tilin tila: %1</translation>
     </message>
 </context>
 <context>
@@ -722,32 +724,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Valitse Suositellut</translation>
+        <translation>Valitse suositellut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Käytä Jakokoodia</translation>
+        <translation>Käytä jakokoodia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Tyhjennä Kaikki</translation>
+        <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse jakokoodi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakokoodi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakokoodia ei ole määritelty!</translation>
     </message>
 </context>
 <context>
@@ -755,7 +757,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti ottaa tämän modin käyttöön?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -768,7 +770,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Varoitus: Tämä on viellä Keskeneräinen. Jos kohtaat ongelmia tuodun modipaketin kanssa, se voi olla virhe.</translation>
+        <translation>Varoitus: Tämä ohjelma on vielä keskeneräinen. Jos kohtaat ongelmia tuodun modipaketin kanssa, se voi olla ohjelmointivirhe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -808,12 +810,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Yhtään versiota ei ole saatavilla</translation>
+        <translation>Yhtään versiota ei ole saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Ei voitu ladata versioluetteloja!</translation>
+        <translation>Versioluetteloja ei voitu ladata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
@@ -873,7 +875,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Javan tarkistuskirjastoa ei löytynyt. Tarkista Java-asennuksesi.</translation>
     </message>
 </context>
 <context>
@@ -881,32 +883,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse modien tarjoaja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Jätä tämä modi välistä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Jätä kaikki välistä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista kaikille</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Yritä automaattisesti käyttää muita tarjoajia, jos valittu tarjoaja ei toimi</translation>
     </message>
 </context>
 <context>
@@ -930,12 +932,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Peliversiossa on ristiriitaisia riippuvaisuuksia.</translation>
+        <translation>Instanssissa on ristiriitaisia riippuvaisuuksia.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Peliversiossa ilmenee ratkaisemattomia riippuvaisuuksia käynnistyksen latauksessa/tarkistuksessa.</translation>
+        <translation>Instanssissa on ratkaisemattomia riippuvaisuuksia käynnistyksen latauksessa/tarkistuksessa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -950,12 +952,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikkien suoritettavien tehtävien keskeytys epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritetaan %1 tehtävää (%2 tehtävää %3 sta on valmiina)</translation>
     </message>
 </context>
 <context>
@@ -963,7 +965,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Kopioi pelipaketti</translation>
+        <translation>Kopioi instanssi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -996,7 +998,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Ydinmodit</translation>
+        <translation>Ydinmodit</translation>
     </message>
 </context>
 <context>
@@ -1013,31 +1015,31 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Oma&amp;t komennot</translation>
+        <translation>&amp;Omat komennot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Sulkemista seuraava komento:</translation>
+        <translation>&amp;Sulkemista seuraava komento:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Käynnistystä edeltävä komento:</translation>
+        <translation>&amp;Käynnistystä edeltävä komento:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Paketoijakomento:</translation>
+        <translation>&amp;Paketoijakomento:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan PolyMC: n toimintokansiossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Peliversion nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Peliversion tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Peliversion kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen instanssin käynnistämistä ja sulkemista seuraava komento ajetaan instanssin sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan PolyMC:n toimintokansiossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instanssin nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Instanssin tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Instanssin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1092,29 +1094,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkistetaan onko modeilla metadataa...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pyydetään metadataa tarjoajalta %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pyydetään metadataa tarjoajalta %1 modille &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsitaan Modrinthin API-vastausta modille &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsitaan CurseForgen API-vastausta modille &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1122,12 +1124,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkistetaan pelin omistustietoja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelin omistajuus tarkistettu</translation>
     </message>
 </context>
 <context>
@@ -1135,7 +1137,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Vie peliversio</translation>
+        <translation>Vie instanssi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
@@ -1162,7 +1164,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation>Peliversiota ei voida viedä</translation>
+        <translation>Instanssia ei voida viedä</translation>
     </message>
 </context>
 <context>
@@ -1410,12 +1412,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopioidaan FML-kirjastoja peliversioon...</translation>
+        <translation>Kopioidaan FML-kirjastoja instanssiin...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>FML-kirjastokansion luonti peliversioon epäonnistui.</translation>
+        <translation>FML-kirjastokansion luonti instanssiin epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
@@ -2038,17 +2040,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation>Kopioidaan peliversiota %1</translation>
+        <translation>Kopioidaan instanssia %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Instance folder copy failed.</source>
-        <translation>Peliversiokansion kopiointi epäonnistui.</translation>
+        <translation>Instanssin kopiointi epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Peliversiokansion kopiointi keskeytetty.</translation>
+        <translation>Instanssikansion kopiointi keskeytetty.</translation>
     </message>
 </context>
 <context>
@@ -2178,7 +2180,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation>%1 Peliversio</translation>
+        <translation>%1 Instanssi</translation>
     </message>
 </context>
 <context>
@@ -2194,7 +2196,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="59"/>
         <source>Edit Instance (%1)</source>
-        <translation>Muokkaa peliversiota (%1)</translation>
+        <translation>Muokkaa instanssia (%1)</translation>
     </message>
 </context>
 <context>
@@ -2457,7 +2459,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Peliversion lisäys epäonnistui toistuvasti. Jokin estää sen.</translation>
+        <translation>Instanssin lisäys epäonnistuu toistuvasti. Jokin estää sen.</translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2467,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
         <source>Console window for </source>
-        <translation>Konsoli-ikkuna peliversiolle </translation>
+        <translation>Konsoli-ikkuna instanssille </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
@@ -2495,7 +2497,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation>Pakota lopettamaan käynnissä oleva peliversio</translation>
+        <translation>Pakota lopettamaan käynnissä oleva instanssi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
@@ -2507,7 +2509,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="163"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="178"/>
         <source>Launch the instance</source>
-        <translation>Käynnistä peliversio</translation>
+        <translation>Käynnistä instanssi</translation>
     </message>
 </context>
 <context>
@@ -2762,7 +2764,7 @@ Valitse seuraavista tai etsi Java-ohjelma.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation>Peliversiota ei ole määritetty!</translation>
+        <translation>Instanssia ei ole määritetty!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
@@ -2902,7 +2904,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <location filename="src/launcher/LaunchController.cpp" line="330"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Ei voitu ladata peliversion profiilia.</translation>
+        <translation>Ei voitu ladata instanssin profiilia.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -2956,7 +2958,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Tämä voi korruptoida peliversion ja sitä tulisi käyttää vain jos Minecraft jostain syystä jäätyy</translation>
+        <translation>Tämä voi korruptoida instanssin ja sitä tulisi käyttää vain jos Minecraft jostain syystä jäätyy</translation>
     </message>
 </context>
 <context>
@@ -3210,7 +3212,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
         <source>Instance Folder</source>
-        <translation type="unfinished">Peliversiokansio</translation>
+        <translation>Instanssikansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
@@ -3524,7 +3526,7 @@ Poistetaanko se nyt?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>Kirjastot peliversiolle %1</translation>
+        <translation>Kirjastot instanssille %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
@@ -3756,7 +3758,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Kill the running instance</source>
-        <translation>Pakota lopettamaan käynnissä oleva peliversio</translation>
+        <translation>Pakota lopettamaan käynnissä oleva instanssi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1217"/>
@@ -3807,7 +3809,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Dele&amp;te Instance</source>
-        <translation>Poista peliversio</translation>
+        <translation>Poista instanssi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="879"/>
@@ -3817,7 +3819,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Avaa yksi peliversioiden jakamista kansioista.</translation>
+        <translation>Avaa yksi instanssien jakamista kansioista.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4047,7 +4049,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="640"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Vaihda valitun peliversion kuvake.</translation>
+        <translation>Vaihda valitun instanssin kuvake.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
@@ -4057,7 +4059,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Rename the selected instance.</source>
-        <translation>Nimeä valittu peliversio uudelleen.</translation>
+        <translation>Nimeä valittu instanssi uudelleen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
@@ -4152,12 +4154,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Askelapalautin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="766"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>Kopioi peliversio...</translation>
+        <translation>Kopioi instanssi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
@@ -4172,7 +4174,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="671"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>Käynnistä valittu peliversio offline-tilassa.</translation>
+        <translation>Käynnistä valittu instanssi offline-tilassa.</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -4190,12 +4192,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Edit the notes for the selected instance.</source>
-        <translation>Tee muistiinpanoja valittuun peliversioon.</translation>
+        <translation>Muokkaa instanssin muistiinpanoja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>View the mods of this instance.</source>
-        <translation>Näytä peliversion modit.</translation>
+        <translation>Näytä instanssin modit.</translation>
     </message>
     <message>
         <source>View Worlds</source>
@@ -4204,7 +4206,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>View the worlds of this instance.</source>
-        <translation>Näytä peliversion maailmat.</translation>
+        <translation>Näytä instanssin maailmat.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4213,7 +4215,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>View and upload screenshots for this instance.</source>
-        <translation>Katsele ja lähetä näyttökuvia tälle peliversiolle.</translation>
+        <translation>Katsele ja lähetä näyttökuvia tälle instanssille.</translation>
     </message>
     <message>
         <source>Change Group</source>
@@ -4222,7 +4224,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Vaihda valitun peliversion ryhmää.</translation>
+        <translation>Vaihda valitun instanssin ryhmää.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -4232,7 +4234,7 @@ Syy:
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">Avaa valitun peliversion Minecraft-kansio tiedostoselaimessa.</translation>
+        <translation>Avaa valitun instanssin Minecraft-kansio tiedostoselaimessa.</translation>
     </message>
     <message>
         <source>Config Folder</source>
@@ -4723,7 +4725,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haetaan Minecraft-profiilia.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
@@ -4814,7 +4816,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="104"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Vahvista ladattavat modit</translation>
     </message>
 </context>
 <context>
@@ -4823,7 +4825,8 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan modia:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
@@ -5847,7 +5850,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/NullInstance.h" line="59"/>
         <source>Unknown instance type</source>
-        <translation>Tuntematon peliversiotyyppi</translation>
+        <translation>Tuntematon instanssityyppi</translation>
     </message>
 </context>
 <context>
@@ -6166,7 +6169,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>Käytä oletuksena vain tälle peliversiolle?</translation>
+        <translation>Käytä oletuksena vain tälle instanssille?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -7406,7 +7409,7 @@ inheritsFrom puuttuu</translation>
         <source>Instance update failed because: %1
 
 </source>
-        <translation>Peliversion päivitys epäonnistui syystä: %1
+        <translation>Instanssin päivitys epäonnistui syystä: %1
 
 </translation>
     </message>
@@ -7642,7 +7645,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
         <source>Remove selected package from the instance.</source>
-        <translation>Poista valittu paketti peliversiosta.</translation>
+        <translation>Poista valittu paketti instanssista.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
@@ -7767,7 +7770,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>Lataa peliversion käynnistykseen tarvittavat tiedostot nyt.</translation>
+        <translation>Lataa instanssin käynnistykseen tarvittavat tiedostot nyt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
@@ -7777,7 +7780,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Avaa peliversion .minecraft-kansio.</translation>
+        <translation>Avaa instanssin .minecraft-kansio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
@@ -7787,7 +7790,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Avaa peliversion paikallinen kirjastokansio.</translation>
+        <translation>Avaa instanssin paikallinen kirjastokansio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
@@ -7827,7 +7830,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Ei voitu ladata peliversion profiilia.</translation>
+        <translation>Ei voitu ladata instanssin profiilia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="309"/>
@@ -7946,7 +7949,7 @@ Lisääthän Mojang- tai Minecraft-tilisi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="615"/>
         <source>Error updating instance</source>
-        <translation>Virhe päivitettäessä peliversiota</translation>
+        <translation>Virhe päivitettäessä instanssia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
