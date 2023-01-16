@@ -51,11 +51,11 @@
             "untranslated" : 1258
         },
         "da" : {
-            "file" : "6772849cc0dedd0f2eaa8dea4846e8d70f779693.class",
-            "sha1" : "6772849cc0dedd0f2eaa8dea4846e8d70f779693",
+            "file" : "a1582c3133256bea88e9235a690b52f673373efa.class",
+            "sha1" : "a1582c3133256bea88e9235a690b52f673373efa",
             "size" : 81063,
-            "translated" : 470,
-            "fuzzy" : 202,
+            "translated" : 471,
+            "fuzzy" : 201,
             "untranslated" : 742
         },
         "de" : {
