@@ -3156,23 +3156,23 @@ Sinun on ehkä korjattava modisi, koska peli kirjoittaa lokia edelleen tiedostoi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikkopalkki on ystävällisempi näppäimistöpohjaiseen ohjaamiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Korvaa työkalupalkki valikkorivillä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsoli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsoliasetukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
@@ -3196,24 +3196,24 @@ Sinun on ehkä korjattava modisi, koska peli kirjoittaa lokia edelleen tiedostoi
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Historian raja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lopeta lokiin kirjoittaminen, kun loki vuotaa yli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> rivit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Konsolin &amp;fontti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
@@ -3223,12 +3223,12 @@ Sinun on ehkä korjattava modisi, koska peli kirjoittaa lokia edelleen tiedostoi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yrität määrittää instanssikansiota, jonka polussa on vähintään yksi &apos;!&apos;. Javan tiedetään aiheuttavan ongelmia, jos näin on, instanssit eivät (todennäköisesti) käynnisty!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko todella käyttää tätä polkua? &quot;Ei&quot; -vaihtoehto sulkee tämän eikä muuta instanssin polkua.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
@@ -3236,22 +3236,25 @@ Sinun on ehkä korjattava modisi, koska peli kirjoittaa lokia edelleen tiedostoi
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yrität määrittää instanssikansiota, joka on myönnetty väliaikaisesti Flatpakin kautta.
+Tämän tiedetään aiheuttavan ongelmia. Uudelleenkäynnistyksen jälkeen käynnistysohjelma saattaa rikkoutua, koska sillä ei ole enää pääsyä kyseiseen hakemistoon.
+
+On suositeltavaa myöntää PolyMC:lle pääsy instanssikansioon Flatsealin kautta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko kuitenkin jatkaa?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvakekansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modikansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
@@ -3261,12 +3264,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] Harmiton viesti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="512"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/WARN] Ei niin pelottava varoitus.</translation>
     </message>
 </context>
 <context>
@@ -3274,7 +3277,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistyskirjastoa ei löytynyt. Tarkista asennuksesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
@@ -3429,12 +3432,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tehtävä keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjä on keskeyttänyt tehtävän.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3573,12 +3576,13 @@ Syy:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitetään modin indeksiä:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheelliset metatiedot</translation>
     </message>
 </context>
 <context>
@@ -3722,17 +3726,17 @@ Syy:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjaudutaan sisään Microsoft-tilillä.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-käyttäjän todennus epäonnistui - asiakkaan tunniste on muuttunut.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Sai </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
