@@ -3741,22 +3741,22 @@ Syy:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-käyttäjän todennus päättyi verkkovirheeseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-käyttäjän todennus epäonnistui - käyttäjää ei enää ole.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-käyttäjän todennus epäonnistui.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-käyttäjän todennus on suoritettu tunnistamattomalla tuloksella.</translation>
     </message>
 </context>
 <context>
@@ -3847,12 +3847,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa virheseuranta ilmoittaaksesi viasta %1:lla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa %1 Matrix-tila</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3872,7 +3872,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä tiedot kohteesta %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
@@ -3883,7 +3883,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="468"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hae ohjeita %1 tai Minecraft käyttöön.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -3892,7 +3892,7 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkista uudet päivitykset %1:lle.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -3910,17 +3910,17 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Uutiset-työkalupalkki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää uutisia...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa kehitysblogi lukeaksesi lisää uutisia aiheesta %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="787"/>
@@ -3935,49 +3935,49 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kaada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käynnistä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää &amp;instanssi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;ansiot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>As&amp;etukset...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kumoa viimeisin instanssin poisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilmoita &amp;virheestä...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Matrix-tila</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord-kilta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
@@ -3987,74 +3987,74 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tietoja %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Päivitä...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tilien hallinta...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="497"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tiedosto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Muokkaa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Näytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profiilit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ohje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje &amp;ikkuna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="564"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje nykyinen ikkuna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Ohje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa %1 wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="578"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Uutiset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="640"/>
@@ -4074,12 +4074,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä &amp;offline-tilassa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä &amp;demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
