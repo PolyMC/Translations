@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Servizo de &amp;Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Base &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor de Meta&amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -85,23 +85,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>API &amp;CurseForge Core</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Non deberías modificar isto si CurseForge xa funciona.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Introduce unha API Key personalizada para CurseForge aquí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -126,12 +126,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de instalación non soportado</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminando ficheiros existentes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -254,12 +254,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Número de compilación:</translation>
+        <translation>Data de compilación:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -294,12 +294,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de compilación: % 1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -343,7 +343,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -367,7 +367,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
@@ -396,7 +396,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de usuario de Minecraft asociado á conta.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -446,7 +446,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Nome do perfil de Minecraft asociado coa conta.</translation>
+        <translation>Pode esta conta migrar a unha conta de Microsoft?</translation>
     </message>
 </context>
 <context>
@@ -455,13 +455,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Engadir Mojang</translation>
+        <translation>Engadir &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
@@ -473,7 +473,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Sen predeterminado</translation>
+        <translation>Sen predeterminado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
