@@ -1506,7 +1506,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod 有新更新可用，但不能使用 CurseForge 进行下载。</translation>
+        <translation>Mod 有新更新可用，但不能通过 CurseForge 下载。</translation>
     </message>
 </context>
 <context>
@@ -1534,7 +1534,9 @@ Please try again.</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>此整合包%1与一个或多个现有的实例相同。你想创建一个新的隔离实例还是更新已有的实例？
+
+注意：在更新前，请确保你已对重要实例进行备份，更新可能会导致世界崩溃以及一些配置丢失（由于整合包的覆盖）。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
@@ -5650,7 +5652,9 @@ Please update %1!</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>此整合包%1与一个或多个现有的实例相同。你想创建一个新的隔离实例还是更新已有的实例？
+
+注意：在更新前，请确保你已对重要实例进行备份，更新可能会导致世界崩溃以及一些配置丢失（由于整合包的覆盖）。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
