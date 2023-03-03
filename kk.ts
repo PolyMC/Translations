@@ -243,7 +243,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
@@ -355,24 +355,24 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Жоқ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Иә</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Жоқ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Аты</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -612,7 +612,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметрлер</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
@@ -926,7 +926,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Аты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
@@ -1474,7 +1474,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Индекс файлы жоқ.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
@@ -1647,7 +1647,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия жоқ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
@@ -1928,7 +1928,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Аты</translation>
     </message>
 </context>
 <context>
@@ -1941,7 +1941,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Топ:</translation>
     </message>
 </context>
 <context>
@@ -2288,7 +2288,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметрлер</translation>
     </message>
 </context>
 <context>
@@ -2561,7 +2561,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="56"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Тіл</translation>
     </message>
 </context>
 <context>
@@ -2615,7 +2615,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ойныншы атысы</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="189"/>
