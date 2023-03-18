@@ -1482,7 +1482,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>O mod tem uma nova atualização disponível, mas não é possível baixá-lo utilizando o CurseForge.</translation>
+        <translation>O mod tem uma nova atualização disponível, mas não é possível descarregá-lo utilizando o CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1586,7 +1586,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation>Download do mod</translation>
+        <translation>Descarga do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
@@ -1713,7 +1713,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Ordenar por Downloads</translation>
+        <translation>Ordenar por Total de Descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
@@ -4862,7 +4862,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
-        <translation>Download do Mod</translation>
+        <translation>Descarga do Mod</translation>
     </message>
 </context>
 <context>
@@ -5003,7 +5003,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation>Decarregar mods</translation>
+        <translation>Descarregar mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
@@ -5027,7 +5027,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Add a locally downloaded file</source>
-        <translation>Adiciona um ficheiro disponível localmente</translation>
+        <translation>Adiciona um ficheiro descarregado localmente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
@@ -5058,7 +5058,7 @@ Tem certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Download stopped by user.</source>
-        <translation>Download parado pelo utilizador.</translation>
+        <translation>Descarga parada pelo utilizador.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -5602,7 +5602,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>Ordenar por Downloads</translation>
+        <translation>Ordenar por Descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
@@ -5651,7 +5651,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Total Downloads</source>
-        <translation>Ordenar por Downloads</translation>
+        <translation>Ordenar por Total de Descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
