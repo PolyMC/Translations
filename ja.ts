@@ -5446,7 +5446,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>モドリンスのモッドを準備中...</translation>
+        <translation>ModrinthのModを準備中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
@@ -5491,7 +5491,7 @@ Please update %1!</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>1 つ以上のインスタンスがこの同じ modpack%1 からのものです。別のインスタンスを作成しますか、それとも既存のインスタンスを更新しますか?
+        <translation>1 つ以上のインスタンスがこの同じ Modパック%1 からのものです。別のインスタンスを作成しますか、それとも既存のインスタンスを更新しますか?
 
 注: 更新する前に、重要なインスタンス データのバックアップを作成してください。ワールドが破損したり、構成の一部が失われたりする可能性があるためです (パックのオーバーライドが原因で)。</translation>
     </message>
@@ -5552,7 +5552,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>この modpack の 1 つ以上の mod はオプションです。それらはダウンロードされますが、デフォルトでは無効になっています!</translation>
+        <translation>この Modパック の 1 つ以上の mod はオプションです。それらはダウンロードされますが、デフォルトでは無効になっています!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -5600,7 +5600,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>注: Modrinth modpack はまだアルファ段階です。エッジが荒い、またはまったく機能しないものもあります。注意して使用してください。</translation>
+        <translation>注: Modrinth Modパック はまだアルファ段階です。エッジが荒い、またはまったく機能しないものもあります。注意して使用してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5683,7 +5683,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
         <source>Modrinth</source>
-        <translation>モドリンス</translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
