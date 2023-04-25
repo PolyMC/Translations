@@ -1526,7 +1526,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
@@ -1538,7 +1538,9 @@ Veuillez réessayer.</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Une ou plusieurs de vos instances proviennent du même Modpack%1. Voulez-vous créer une instance séparée ou mettre à jour l&apos;existante ?
+
+NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos;instance avant de mettre à jour, car les mondes peuvent être corrompus et certaines parties de la configuration peut-être perdues (à cause de l&apos;écrasement de packs).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
