@@ -1520,7 +1520,7 @@ Veuillez réessayer.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impossible de comprendre le manifeste du pack :
+        <translation>Impossible d&apos;interpréter le manifeste du pack :
 </translation>
     </message>
     <message>
@@ -1565,29 +1565,29 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;indexation valide pour l&apos;ancienne version. Cela peut causer certains fichiers à être dupliqués. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Impossible de renommer le dossier &quot;overrides&quot; :
+        <translation type="unfinished">Impossible de renommer le dossier d&apos;écrasement :
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Le dossier &quot;overrides&quot; spécifié (%1) est manquant. Peut-être que le pack de mods a déjà été utilisé auparavant ?</translation>
+        <translation type="unfinished">Le dossier d&apos;écrasement spécifié (%1) est manquant. Peut-être que le modpack a déjà été utilisé auparavant ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Mod Loader inconnu dans le manifeste : %1</translation>
+        <translation>Chargeur de Mod inconnu dans le manifeste : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">De mystérieux points finaux ont été retirés de la version de Minecraft lors de l&apos;importation du pack.</translation>
+        <translation type="unfinished">De mystérieuses informations ont été retirés de la version de Minecraft lors de l&apos;importation du pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
@@ -1598,18 +1598,18 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Impossible de résoudre les IDs de mods :
+        <translation>Impossible de résoudre les IDs de mods :
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Mods bloqués trouvés</translation>
+        <translation>Mods bloqués trouvés</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished">Les mods suivant sont bloqués sur les lanceurs tiers.&lt;br/&gt; Vous devrez les télécharger manuellement et les ajouter au modpack</translation>
+        <translation>Les mods suivant sont bloqués sur les lanceurs tiers.&lt;br/&gt; Vous devrez les télécharger manuellement et les ajouter au Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
