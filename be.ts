@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Сэрвіс стаўкі і тып</translation>
+        <translation>Сэрвіс і тып</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Заўвага: верагодна, вы за хаціце змяніць ці ачысціць URL пасля змянення сэрвісу.</translation>
+        <translation>Заўвага: верагодна, вы захочаце змяніць ці ачысціць URL пасля змены сэрвісу.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -45,12 +45,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation>(Па змаўчанні)</translation>
+        <translation type="unfinished">(Па змаўчанні)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Увядзіце ўласны client ID для аўтэнтыфікацыя Microsoft. </translation>
+        <translation>Увядзіце ўласны client ID для аўтэнтыфікацыі Microsoft. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -60,32 +60,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>Агент Карыстальніка</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Увядзіце ваш Агент Карыстальніка тут. Пераменная $LAUNCHER_VER будзе заменена на версію лаўнчарах.</translation>
+        <translation>Увядзіце ваш User Agent тут. Пераменная $LAUNCHER_VER будзе заменена на версію лаўнчара.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сервер Мета&amp;даных</translation>
+        <translation>Сер&amp;вер Метаданых</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Вы можаце упісаць іншы сервер для метаданных для выкарыстання патчаных бібліятэк і іншых хакаў.</translation>
+        <translation>Вы можаце ўпісаць іншы сервер для метаданых для выкарыстання патчаных бібліятэк і іншых хакаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Увядзіце свой URL метаданных тут.</translation>
+        <translation>Увядзіце свой URL метаданых тут.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>API &amp;CurseForge</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Увядзіце тут ўласны API ключ для CurseForge.</translation>
+        <translation>Увядзіце тут уласны API ключ для CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -110,23 +110,23 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не атрымалася зразумець маніфест зборкі:
+        <translation type="unfinished">Не атрымалася зразумець маніфест зборкі:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Не ўдалося атрымаць індэкс метаданных для %1</translation>
+        <translation>Не ўдалося атрымаць індэкс метаданых для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не ўдалося атрымаць лакальны індэкс метаданных для &apos;%1&apos; v&apos;%2&apos;</translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v&apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation>Непадтрымны рэжым устаноўкі</translation>
+        <translation>Рэжым усталёўкі не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
@@ -141,17 +141,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не ўдалося знайсці версію для загрузчика %1</translation>
+        <translation>Не атрымалася знайсці версію для загрузчыка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для зборкі не устаноўлена версія загрузчика!</translation>
+        <translation>Для зборкі не ўсталяваная версія загрузчыка!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Невядомы альбо не падтрымліваем тып загрузкі: %1</translation>
+        <translation>Невядомы альбо не падтрымліваемы тып загрузкі: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="651"/>
@@ -161,17 +161,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Config download</source>
-        <translation>Загрузка налад</translation>
+        <translation>Спампоўка налад</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation>Атрыманне налад...</translation>
+        <translation>Распакоўка налад...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Не атрымалася адкрыць пакет налад %1!</translation>
+        <translation>Не атрымалася адкрыць налады зборкі %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -186,32 +186,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation>Спампоўка мода</translation>
+        <translation type="unfinished">Спампоўка мода</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Тып спампоўкі не падтрымліваецца: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невядомы тып спампоўкі: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="886"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася распакаваць моды…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="897"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Распакоўка модаў…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="970"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Усталёўка зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="982"/>
