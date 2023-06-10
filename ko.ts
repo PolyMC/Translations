@@ -821,22 +821,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">마인크래프트 %1에 사용가능한 버전이 없습니다</translation>
+        <translation>마인크래프트 %1에 사용 가능한 버전이 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">현재 사용가능한 버전들이 없습니다</translation>
+        <translation>현재 사용 가능한 버전들이 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+        <translation>버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">설치 중</translation>
+        <translation>설치 중</translation>
     </message>
 </context>
 <context>
@@ -1269,7 +1269,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>선택한 모든 리소스를 확인하거나 업데이트합니다 (선택한 리소스가 없는 경우 모든 리소스)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
@@ -1471,34 +1471,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 모드 준비 중 ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 중복 문제를 방지하기 위해 비활성화된 모드는 업데이트되지 않습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 에서 &apos;%1&apos;에 대한 API 응답을 받는 중 ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos;에 대한 CurseForge 의 API 응답 구문 분석 중 ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다 .</translation>
     </message>
 </context>
 <context>
@@ -1508,119 +1508,121 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">팩 manifest를 해석하지 못함:
+        <translation>팩 매니페스트를 해석하지 못함:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (버전 %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>유사한 모드팩이 발견되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>하나 이상의 인스턴스가 이 동일한 모드팩 %1에 있습니다. 별도의 인스턴스를 생성하시겠습니까, 아니면 기존 인스턴스를 업데이트하시겠습니까?
+
+참고: 세계가 손상될 수 있고 일부 구성이 손실될 수 있으므로(팩 재정의로 인해) 업데이트하기 전에 중요한 인스턴스 데이터를 백업했는지 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>기존 인스턴스 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>새 인스턴스 만들기</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished">취소</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>색인 파일이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 버전에 적합한 색인 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">덮어쓰는 폴더를 이름 바꾸지 못함:
+        <translation>덮어쓰는 폴더 이름을 바꾸지 못함:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
+        <translation>지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 사용되었을 수 있습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Manifest의 알 수 없는 모드 로더 오류: %1</translation>
+        <translation>매니페스트의 알 수 없는 모드 로더 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">읽어들이는 중 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
+        <translation>팩을 가져오는 동안 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
+        <translation>마인크래프트 %1에 권장되는 Forge 버전을 선택하지 못했습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">모드 ID 처리 실패:
+        <translation>모드 ID 처리 실패:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">차단된 모드를 찾았습니다</translation>
+        <translation>차단된 모드를 찾았습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished">다음 모드는 제3자 런처를 차단했습니다. &lt;br/&gt; 수동으로 다운로드하여 모드팩에 추가해야 합니다</translation>
+        <translation>다음 모드는 타사 실행기에서 차단되었습니다.&lt;br/&gt;수동으로 다운로드하여 모드팩에 추가해야 합니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
+        <translation>이 폴더는 추출을 필요로 할 지도 모릅니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
+        <translation>중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1</translation>
+        <translation>인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">모드 다운로드 중...</translation>
+        <translation>모드 다운로드 중...</translation>
     </message>
 </context>
 <context>
