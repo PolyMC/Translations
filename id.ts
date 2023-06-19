@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished">Masukkan User Agent sendiri di sini. String khusus $LAUNCHER_VER akan diganti dengan versi launcher.</translation>
+        <translation>Masukkan User Agent khusus di sini. String khusus $LAUNCHER_VER akan diganti dengan versi peluncur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Kamu dapat setel ini ke metadata server pihak ketiga untuk menggunakan pustaka yang ditambal atau peretasan lainnya.</translation>
+        <translation>Anda dapat mengatur ini ke server metadata pihak ketiga untuk menggunakan pustaka yang ditambal atau hacks lainnya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Masukkan Kunci API sendiri untuk CurseForge di sini.</translation>
+        <translation>Masukkan Kunci API khusus untuk CurseForge di sini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
