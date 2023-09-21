@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Skriv inn en egendefinert API-nøkkel for CurseForge her. </translation>
+        <translation>Skriv inn en egendefinert API-nøkkel for CurseForge her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Klarte ikke å åpne oppsettsfiler for pakker %1.</translation>
+        <translation>Klarte ikke å åpne oppsettfiler for pakker %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -521,7 +521,7 @@ Hvis du er ny her, kan du trykke «Legg til»-knappen for å legge til Mojang- e
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Ingen Microsoft-klient-ID for identitetsbekreftelse ble satt</translation>
+        <translation>Ingen Microsoft-klient-ID for identitetsbekreftelse ble satt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -572,7 +572,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Klarte ikke å slette nåværende drakt.</translation>
+        <translation>Kunne ikke slette nåværende drakt!</translation>
     </message>
 </context>
 <context>
@@ -740,7 +740,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation>Ingen delingskode angitt.</translation>
+        <translation>Ingen delingskode spesifisert!</translation>
     </message>
 </context>
 <context>
@@ -790,7 +790,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Kunne ikke laste inn eller ned versjonslistene.</translation>
+        <translation>Kunne ikke laste inn eller laste ned versjonslistene!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
@@ -808,7 +808,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished">Igangsetter …</translation>
+        <translation>Initialiserer</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
@@ -2164,7 +2164,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Java insta&amp;llation</translation>
+        <translation>Java insta&amp;llasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -3771,7 +3771,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open %1 subreddit.</source>
-        <translation>Åpne %1-sub-Reddit</translation>
+        <translation>Åpne %1 subreddit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
@@ -3849,7 +3849,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Legg til &amp;instans</translation>
+        <translation>Legg til &amp;instans...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
@@ -3861,7 +3861,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>&amp;Innstillinger</translation>
+        <translation>&amp;Innstillinger...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
@@ -3998,7 +3998,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="690"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>Rediger &amp;instans</translation>
+        <translation>Rediger &amp;instans...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
@@ -4028,7 +4028,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Endre gruppe</translation>
+        <translation>&amp;Endre gruppe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
@@ -7009,12 +7009,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Draktfilen finnes ikke.</translation>
+        <translation>Draktfilen finnes ikke!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Kunne ikke laste opp drakt.</translation>
+        <translation>Kunne ikke laste opp drakt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
@@ -7377,7 +7377,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation>Vanilla</translation>
+        <translation>Vanilje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
