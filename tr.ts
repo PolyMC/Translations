@@ -1567,7 +1567,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Belirlenmiş üzerine yazılanlar (override) klasörü (%1) kayıp. Belki de bu mod paketi daha önce kullanılmıştı?</translation>
+        <translation>Seçili üzerine yazılanlar klasörü (%1) kayıp. Belki de bu mod paketi daha önce kullanılmıştı?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
@@ -1582,7 +1582,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
+        <translation>Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -1594,7 +1594,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Engellenmiş modlar bulundu</translation>
+        <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
