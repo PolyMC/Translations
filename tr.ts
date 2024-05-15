@@ -830,17 +830,17 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Hiçbir sürüm şu an mevcut değil</translation>
+        <translation>Şu anda hiçbir sürüm mevcut değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Sürüm listeleri yüklenemedi veya indirilemedi!</translation>
+        <translation>Sürüm listeleri yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">Kuruluyor</translation>
+        <translation type="unfinished">Yükleniyor</translation>
     </message>
 </context>
 <context>
