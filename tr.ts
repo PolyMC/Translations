@@ -1018,7 +1018,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Çekirdek modlar</translation>
+        <translation>Çekirdek modlar</translation>
     </message>
 </context>
 <context>
@@ -1273,7 +1273,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished">Seçilen tüm kaynakları kontrol etmeye veya güncellemeye çalış (hiçbiri seçilmemişse bütün kaynaklar)</translation>
+        <translation>Seçilen tüm kaynakları kontrol etmeye veya güncellemeye çalışın (hiçbiri seçilmemişse tüm kaynaklar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
@@ -1486,7 +1486,7 @@ Lütfen tekrar deneyin.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished">CurseForge&apos;dan &apos;%1&apos; için API yanıtı alınıyor...</translation>
+        <translation>&apos;%1&apos; için CurseForge&apos;dan API yanıtı alınıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1530,7 +1530,9 @@ Lütfen tekrar deneyin.</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Örneklerinizden biri veya daha fazlası bu aynı modpack%1&apos;den. Ayrı bir örnek oluşturmak mı yoksa mevcut olanı güncellemek mi istiyorsunuz?
+
+NOT: Güncellemeden önce önemli örnek verilerinizin yedeğini aldığınızdan emin olun, çünkü dünyalar bozulabilir ve bazı yapılandırmalar kaybolabilir (paket geçersiz kılmaları nedeniyle).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
@@ -1545,7 +1547,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished">İptal</translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
@@ -1599,7 +1601,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished">Aşağıdaki modlar üçüncü parti başlatıcılarda engellidir.&lt;br/&gt;Bunları elle indirip, mod paketine eklemeniz gerekecek</translation>
+        <translation>Aşağıdaki modlar üçüncü taraf başlatıcılarda engellendi.&lt;br/&gt;Bunları manuel olarak indirmeniz ve mod paketine eklemeniz gerekecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
@@ -5115,7 +5117,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seçili tüm modları kontrol etmeye veya güncellemeye çalışın (eğer hiçbiri seçilmemişse tüm modlar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -5157,12 +5159,12 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod güncelleyici iptal edildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen tüm modlar güncel! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -5172,13 +5174,13 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; güncel! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tüm modlar güncel! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
