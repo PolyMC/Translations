@@ -879,7 +879,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліотеку перевірки Java не вдалося знайти. Будь ласка, перевірте вашу інсталяцію.</translation>
     </message>
 </context>
 <context>
@@ -956,7 +956,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося завершити всі запущені завдання.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
@@ -1486,7 +1486,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через CurseForge.</translation>
+        <translation>Доступна нова версія моду, але її не можливо завантажити через CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1496,56 +1496,58 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Не вдалося зрозуміти маніфест пакету:
+        <translation>Не вдалося зрозуміти маніфест пакету:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (версія %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайдено подібний модпак!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Один або декілька ваших екземплярів з цього самого модпака%1. Ви хочете створити окремий екземпляр або оновити існуючий?
+
+ПРИМІТКА: Переконайтеся, що ви зробили резервну копію важливих даних вашого екземпляра перед оновленням, оскільки світи можуть бути пошкоджені, а деякі конфігурації можуть бути втрачені (через перевизначення пакунків).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити наявний екземпляр</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити новий екземпляр</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає індексного файла.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ми не змогли знайти відповідний індексний файл для старої версії. Це може призвести до дублювання деяких файлів. Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Не вдалося перейменувати теку перевизначення:
+        <translation>Не вдалося перейменувати теку перевизначення:
 </translation>
     </message>
     <message>
@@ -2061,17 +2063,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при створенні нового екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалення старих конфліктних файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося видалити старі файли конфліктів.</translation>
     </message>
 </context>
 <context>
@@ -2507,7 +2509,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити Демо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2844,7 +2846,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть ім&apos;я вашого гравця в демо-режимі.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -3459,12 +3461,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Завдання скасовано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завдання було перервано користувачем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4119,12 +4121,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити Демо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустіть вибраний екземпляр в демо режимі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
@@ -4381,12 +4383,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск Демо</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
@@ -4396,7 +4398,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
@@ -4441,12 +4443,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Завдання скасовано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завдання було перервано користувачем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
@@ -4775,12 +4777,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s GameMode не вдалося знайти у вашій системі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud не знайдено в вашiй системi.</translation>
     </message>
 </context>
 <context>
@@ -4902,12 +4904,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>не вдалося отримати індекс версії</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
@@ -4917,12 +4919,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>Основний збіг версій (= %1.%2.x)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="72"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Основний збіг версій (не підтримується)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
@@ -5207,7 +5209,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="275"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо вибрати недійсну версію :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="294"/>
@@ -5242,7 +5244,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="348"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
