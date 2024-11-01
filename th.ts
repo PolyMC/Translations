@@ -31,12 +31,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: คุณอาจต้องการเปลี่ยนแปลงหรือล้าง URL ฐานหลังจากเปลี่ยนประเภทบริการวางข้อความ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัส API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้หากการบันทึกข้อมูลผ่านระบบการตรวจสอบสิทธิ์ของ Microsoft ใช้งานได้อยู่แล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -58,7 +58,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ป้อนรหัสไคลเอนต์ที่กำหนดเองสำหรับการรับรองความถูกต้องของ Microsoft ที่นี่ </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
