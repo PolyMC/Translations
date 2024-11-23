@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Сервіс &amp;Pastebin</translation>
+        <translation>Сервіс Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Введіть API Ключ CurseForge тут.</translation>
+        <translation>Введіть свій API Ключ для CurseForge тут.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation>Видалення наявних файлів...</translation>
+        <translation>Видаляю існуючі файли...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -254,12 +254,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Номер збірки:</translation>
+        <translation>Дата збірки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Здійсніть:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -294,7 +294,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Здійснено: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
@@ -642,7 +642,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
         <source>Aborted</source>
-        <translation type="unfinished">Перервано</translation>
+        <translation>Перервано</translation>
     </message>
 </context>
 <context>
@@ -809,12 +809,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">На цей момент немає доступних версій для Minecraft %1</translation>
+        <translation>На цей момент немає доступних версій для Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Наразі оновлення відсутні</translation>
+        <translation>Наразі оновлення відсутні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
@@ -879,7 +879,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Бібліотеку перевірки Java не вдалося знайти. Будь ласка, перевірте вашу інсталяцію.</translation>
+        <translation>Не вдалося знайти бібліотеку перевірки Java. Будь ласка, перевірте деталі вашого встановлення.</translation>
     </message>
 </context>
 <context>
@@ -912,7 +912,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Намагатися використовувати інші джерела в разі якщо обране не працюватиме</translation>
+        <translation>Спробувати автоматично використати інше джерело якщо обране не буде успішним</translation>
     </message>
 </context>
 <context>
@@ -1002,7 +1002,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Модифікації</translation>
+        <translation>Модифікація ядра</translation>
     </message>
 </context>
 <context>
@@ -1120,7 +1120,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Розбір відповіді API від CurseForge для &apos;%1&apos;...</translation>
+        <translation>Парсити відповідь API від CurseForge for &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1257,7 +1257,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
+        <translation>Спробувати знайти/обновити обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
@@ -2413,7 +2413,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений накладання продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
@@ -2463,12 +2463,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s GameMode не вдалося знайти у вашій системі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud не знайдено в вашiй системi.</translation>
+        <translation>MangoHud не знайдено у вашiй системi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
@@ -4914,7 +4914,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
         <source>Strict match (= %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Строгий збіг (= %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
@@ -5289,22 +5289,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва моду: %1&lt;br&gt;Назва файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка створення метаданих</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити метадані для таких модів:&lt;br&gt;Ви бажаєте продовжити без цих модів?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка оновлень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
@@ -5320,38 +5320,38 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="295"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка оновлень...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва моду: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Причина: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Можливе рішення: Отримати останню версію вручну:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Мод &apos;%1&apos; ще не має метаданих. Нам потрібно створити його, щоб відстежувати відповідну інформацію про те, як оновити цей мод. Для цього виберіть постачальника модів, за допомогою якого ми зможемо перевірити наявність оновлень для цього мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося знайти дійсну версію у вибраного(-их) постачальника(-ів) модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
