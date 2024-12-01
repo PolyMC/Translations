@@ -840,7 +840,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">Yükleniyor</translation>
+        <translation>Kuruluyor</translation>
     </message>
 </context>
 <context>
@@ -1480,7 +1480,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Modların karışması sorununu engellemek için devredışı bırakılmış modlar güncellenmeyecek.</translation>
+        <translation>Aynı modların çoğalıp hata oluşturmasını önlemek için devre dışı bırakılan modlar güncellenmeyecek!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
@@ -1563,7 +1563,7 @@ NOT: Güncellemeden önce önemli örnek verilerinizin yedeğini aldığınızda
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Üzerine yazılanlar (overrides) klasörü yeniden adlandırılamadı:
+        <translation>Overrides klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
@@ -1601,7 +1601,7 @@ NOT: Güncellemeden önce önemli örnek verilerinizin yedeğini aldığınızda
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation>Aşağıdaki modlar üçüncü taraf başlatıcılarda engellendi.&lt;br/&gt;Bunları manuel olarak indirmeniz ve mod paketine eklemeniz gerekecek.</translation>
+        <translation>Aşağıdaki modlar üçüncü taraf başlatıcılarda engellendi.&lt;br/&gt;Bunları manuel olarak indirmeniz ve mod paketine eklemeniz gerekecek</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
@@ -1611,7 +1611,7 @@ NOT: Güncellemeden önce önemli örnek verilerinizin yedeğini aldığınızda
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Bu &apos;Klasör&apos; dışa aktarılabilir: %1</translation>
+        <translation>Bu &apos;Klasör&apos; ayıklanması gerekebilir: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
@@ -2829,7 +2829,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Minecraft oynayabilmek için en az 1 hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
+        <translation>Minecraft oynayabilmek için Minecraft sahipli bir hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -3494,7 +3494,7 @@ Flatseal ile PolyMC&apos;ye izin verilmesi önerilir.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">İşlem kullanıcı tarafından iptal edildi</translation>
+        <translation>İşlem kullanıcı tarafından iptal edildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3879,7 +3879,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Otur&amp;umu Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="879"/>
@@ -4026,7 +4026,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Son Oturum Silme İşlemini Geri Al</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
@@ -4148,7 +4148,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished">Seçilmiş profili demo modunda çalıştır</translation>
+        <translation>Seçilmiş profili demo modunda çalıştır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
@@ -4474,7 +4474,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev, kullanıcı tarafından iptal edildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
@@ -4873,7 +4873,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profili alımı başarısız oldu: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4908,12 +4908,12 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Geri</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçtiğiniz modları gözden geçirmek ve seçiminizi onaylamak için yeni bir açılır pencere açar. Kısayol: Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
@@ -4951,7 +4951,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>versiyon index&apos;i alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
@@ -5169,7 +5169,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme Kontrolcüsü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
@@ -5338,7 +5338,7 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
@@ -5348,12 +5348,12 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdaki modlar için meta veri oluşturulamadı:&lt;br&gt;Bu modlar olmadan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler kontrol ediliyor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
@@ -5374,78 +5374,78 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler kontrol ediliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod adı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sebep: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Olası çözüm: En son sürümü manuel olarak edinme:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; modunun henüz bir meta verisi yok. Bu modun nasıl güncelleneceği ile ilgili bilgileri takip etmek için bunu oluşturmanız gerekiyor. Bunu yapmak için, lütfen bu modun güncellemelerini kontrol etmek için kullanabileceğiniz bir mod sağlayıcısı seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen mod sağlayıcı(lar)ında geçerli bir sürüm bulunamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler kontrol edilemedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler için aşağıdaki modlar kontrol edilemedi veya alınamadı:&lt;br&gt;Bu modlar olmadan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta veri aranıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="296"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta veri oluşturuluyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="355"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlayıcı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski versiyon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklü değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni versiyon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>En son versiyonun değişiklik günlüğü</translation>
     </message>
 </context>
 <context>
@@ -5457,7 +5457,7 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest alınıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="83"/>
@@ -5474,22 +5474,22 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="132"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar çözülüyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="143"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz manifest: &apos;%1&apos; dosyasını indirmek için kullanılabilir bilgi yok!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Engellenen dosyalar bulundu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve istemciye eklemeniz gerekecektir.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
@@ -5504,12 +5504,12 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="273"/>
         <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketi dosyaları kopyalanıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketi yükleniyor...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -5559,32 +5559,32 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth için modlar hazırlanıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod çoğaltma sorunlarını önlemek için devre dışı bırakılan modlar güncellenmeyecektir!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth&apos;ten gelen API yanıtı ayrıştırılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mod için geçerli bir sürüm bulunamadı. Muhtemelen mevcut oyun sürümü / mod yükleyicisi için kullanılamıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Modun boş bir indirme URL&apos;si var</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth&apos;ten API yanıtı bekleniyor...</translation>
     </message>
 </context>
 <context>
@@ -5597,24 +5597,26 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Benzer bir mod paketi bulundu!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="54"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Örneklerinizden biri veya daha fazlası bu aynı modpack%1&apos;den. Ayrı bir örnek oluşturmak mı yoksa mevcut olanı güncellemek mi istiyorsunuz?
+
+NOT: Güncellemeden önce önemli örnek verilerinizin yedeğini aldığınızdan emin olun, çünkü dünyalar bozulabilir ve bazı yapılandırmalar kaybolabilir (paket geçersiz kılmaları nedeniyle).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni istemci oluştur</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut istemciyi güncelleyin</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
@@ -5624,12 +5626,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>İndex dosyası yok.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski sürüm için uygun bir dizin dosyası bulamadık. Bu, bazı dosyaların kopyalanmasına neden olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
@@ -5648,22 +5650,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="229"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod indirme</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="261"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar indiriliyor...</translation>
+        <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished">Seçmeli mod bulundu!</translation>
+        <translation>Opsiyonel mod bulundu!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">Bu mod paketindeki bir veya birden fazla mod seçmelidir. İndirilecektir ancak varsayılan olarak çevrim dışı olacaktır!</translation>
+        <translation>Bu mod paketindeki bir veya birden fazla mod opsiyoneldir. İndirilecektir ancak varsayılan olarak devre dışı olacaktır!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -5806,12 +5808,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm girişimler başarısız oldu!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2&apos;nin dışında %1 görevi deneniyor</translation>
     </message>
 </context>
 <context>
@@ -5841,7 +5843,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>NetJob&apos;daki tüm görevler iptal edilemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
@@ -6779,7 +6781,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java denetleyici kütüphane bulunamadı. Lütfen kurulumunuzu kontrol edin</translation>
+        <translation>Java denetleyici kütüphane bulunamadı. Lütfen kurulumunuzu kontrol edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6828,12 +6830,12 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaratıcı(lar) yok</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>İstemci adını değiştir</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -6841,7 +6843,10 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Örneğin adı eski sürümü içeriyor gibi görünüyor. Güncellemek ister misiniz?
+
+Eski ad: %1
+Yeni ad: %2</translation>
     </message>
 </context>
 <context>
@@ -6854,25 +6859,25 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="446"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Son değişiklik</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="454"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak etkin mi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="457"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kaynağın adı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="460"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bu kaynağın en son değiştirildiği (veya eklendiği) tarih ve saat.</translation>
     </message>
 </context>
 <context>
@@ -6884,14 +6889,14 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanınmayan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak paketi format kimliğinin yanı sıra tasarlandığı Minecraft sürümleri.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
@@ -6901,7 +6906,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket Formatı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -6911,7 +6916,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak paketi etkin mi? (Yalnızca ZIP&apos;ler için geçerlidir)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -6956,7 +6961,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="35"/>
@@ -7057,7 +7062,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Görevlerden biri başarısız oldu!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
@@ -7228,7 +7233,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut skini korumak için boş bırakın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -8357,12 +8362,12 @@ Devam etmek istiyor musun?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya Datapacks Klasörünü Açın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit&apos;te Dünyayı Açın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
@@ -8424,7 +8429,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyayı Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
@@ -8448,12 +8453,12 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hizmetleri için bilinmeyen STS hatası: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hizmetleri için yetkilendirme alınamadı: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8520,7 +8525,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox profili alınamadı: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8547,7 +8552,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox kullanıcı kimlik doğrulaması başarısız oldu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
