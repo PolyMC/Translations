@@ -5592,7 +5592,7 @@ Lütfen %1 güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versiyon %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
