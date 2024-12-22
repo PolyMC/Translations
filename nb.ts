@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Microsoft autentisering</translation>
+        <translation type="unfinished">&amp;Microsoft Autentisering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Du kan sette dette til en tredjeparts-metadatatjener for å bruke feilfiksede biblioteker eller andre hacks.</translation>
+        <translation type="unfinished">Du kan angi dette til en tredjeparts metadataserver for å bruke patcherte biblioteker eller andre hacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -181,12 +181,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="742"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laster ned mods...</translation>
+        <translation>Laster ned mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation type="unfinished">Nedlasting av modpakke</translation>
+        <translation>Nedlasting av modpakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Ukjent innlastertype: </translation>
+        <translation>Ukjent innlastertype: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
@@ -326,7 +326,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ikke krysset av</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -437,7 +437,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Kan denne kontoen gjøres til en Microsoft-konto?</translation>
+        <translation>Kan denne kontoen migreres til en Microsoft-konto?</translation>
     </message>
 </context>
 <context>
@@ -458,13 +458,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Sett som standard</translation>
+        <translation type="unfinished">&amp;Sett som standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Ingen standard</translation>
+        <translation type="unfinished">&amp;Ingen standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -499,7 +499,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Oppdater</translation>
+        <translation type="unfinished">&amp;Oppdater</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -557,7 +557,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du må legge til en Microsoft- eller Mojang-konto som eier Minecraft før du kan legge til en frakoblet konto.&lt;br&gt;&lt;br&gt;Hvis du har mistet kontoen din, kan du kontakte Microsoft for support.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -600,17 +600,17 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det oppstod en feil under autentisering.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke autentisere. Økten har utløpt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Klarte ikke å identitetsbekrefte. Kontoen finnes ikke lengre.</translation>
+        <translation>Kunne ikke autentisere. Kontoen eksisterer ikke lenger.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
@@ -620,7 +620,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukjent kontooppgavestatus: %1</translation>
     </message>
 </context>
 <context>
@@ -628,7 +628,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
-        <translation type="unfinished">Innstillinger</translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
@@ -697,7 +697,7 @@ Oppdater både operativsystemet og %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sorter etter spillversjon</translation>
+        <translation>Sorter etter Spillversjon</translation>
     </message>
 </context>
 <context>
@@ -761,7 +761,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Advarsel: Dette er fortsatt et pågående arbeid. Hvis du støter på problemer med den importerte modpakken, kan det være en feil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -780,7 +780,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Ingen versjoner tilgjengelige for Minecraft %1 for øyeblikket</translation>
+        <translation>Ingen versjoner er tilgjengelige for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
@@ -813,7 +813,7 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation type="unfinished">Arbeider …</translation>
+        <translation>Arbeider…</translation>
     </message>
 </context>
 <context>
@@ -1002,13 +1002,13 @@ Oppdater både operativsystemet og %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Kommando ved start:</translation>
+        <translation type="unfinished">&amp;Kommando ved start:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Wrapper kommando:</translation>
+        <translation>&amp;Wrapper kommando:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1037,7 +1037,7 @@ Oppdater både operativsystemet og %1.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Kunne ikke kjøre Minecraft!</translation>
+        <translation>Kunne ikke starte Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1079,19 +1079,19 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ber om metadatainformasjon fra %1 for &apos;%2&apos; ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyserer API-svar fra Modrinth for &apos;%1&apos; ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyserer API-svar fra CurseForge for &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1197,12 +1197,12 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Vis &amp;konfigurasjoner</translation>
+        <translation>Vis &amp;konfigurasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Åpne mappen «config» i systemets filbehandler.</translation>
+        <translation>Åpne mappen &apos;config&apos; i systemets filbehandler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -1222,24 +1222,24 @@ Oppdater både operativsystemet og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Se etter &amp;Oppdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Forsøk å sjekke eller oppdatere alle valgte ressurser (alle ressurser hvis ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstmeny</translation>
+        <translation>Kontekstmeny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="151"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Velg %1</translation>
+        <translation>Velg %1</translation>
     </message>
 </context>
 <context>
@@ -1260,7 +1260,7 @@ Oppdater både operativsystemet og %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Tekst-redigeringsverktøy:</translation>
+        <translation>&amp;Tekst-redigeringsverktøy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1435,29 +1435,29 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiverte modifikasjoner vil ikke bli oppdatert, for å unngå problemer med duplisering av modifikasjoner!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Henter API-svar fra CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyserer API-svaret fra CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gyldig versjon funnet for denne moden. Den er sannsynligvis ikke tilgjengelig for den nåværende spillversjonen / modloaderen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod har en ny oppdatering tilgjengelig, men kan ikke lastes ned ved hjelp av CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kunne ikke forstå pakkemanifestet:
+        <translation>Kunne ikke forstå pakkemanifestet:
 </translation>
     </message>
     <message>
@@ -1478,19 +1478,21 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilsvarende modpack ble funnet!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flere av instansene dine er fra samme modpack%1. Vil du opprette en separat instans, eller oppdatere den eksisterende?
+
+MERK: Sørg for at du har tatt en sikkerhetskopi av viktige instansdata før du oppdaterer, da verdener kan bli ødelagt og noe konfigurasjon kan gå tapt (på grunn av pakkeoverstyringer).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater eksisterende forekomst</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
@@ -1510,71 +1512,71 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi fant ikke en passende indeksfil for den eldre versjonen. Dette kan føre til at noen av filene dupliseres. Vil du fortsette?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Kunne ikke endre navn på overstyringsmappen:
+        <translation>Kunne ikke gi nytt navn til overstyringsmappen:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Den angitte overstyringsmappen (%1) mangler. Kanskje modpakken allerede ble brukt før?</translation>
+        <translation>Den angitte overstyringsmappen (%1) mangler. Kanskje modpakken allerede var brukt før?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Ukjent mod-laster i manifest: %1</translation>
+        <translation>Ukjent mod-innlaster i manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Mystiske etterfølgende prikker fjernet fra Minecraft-versjonen og importerer pakken.</translation>
+        <translation>Mystiske etterfølgende prikker fjernet fra Minecraft-versjonen under import av pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Kunne ikke tilordne anbefalt Forge-versjon for Minecraft %1</translation>
+        <translation>Kunne ikke tilordne anbefalt Forge-versjon for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Kan ikke løse mod-IDer:
+        <translation>Kan ikke løse mod-ID-er:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkerte mods funnet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Følgende mods ble blokkert på tredjeparts launchers.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i modpakken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished">Nedlasting av modpakke</translation>
+        <translation>Nedlasting av modpakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Denne «mappen» kan trenge utpakking: %1</translation>
+        <translation>Denne «mappen» kan trenge utpakking: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">Nesting modpakker i modpakker er ikke implementert, ingen ting var installert: %1</translation>
+        <translation>Nesting av modpakker i modpakker er ikke implementert, ingenting ble lastet ned: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">Ikke gjenkjennt/ubehandlet pakkning for: %1</translation>
+        <translation>Ikke gjenkjent/ikke håndtert PackageType for: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
@@ -1625,7 +1627,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versjon valgt:</translation>
+        <translation>Versjon valgt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -1636,7 +1638,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Merk: CurseForge lar skaperne blokkere tilgangen til tredjepartsverktøy som PolyMC. Det kan derfor hende du må laste ned noen modifikasjoner manuelt for å kunne installere en modifikasjonspakke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1666,7 +1668,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorter etter navn</translation>
+        <translation>Sorter etter navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -1684,7 +1686,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen versjon er tilgjengelig!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
@@ -1718,7 +1720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Kunne ikke opprette mappe for Minecraft-binærer.</translation>
+        <translation>Kunne ikke opprette mappe for Minecraft-binærfiler.</translation>
     </message>
 </context>
 <context>
