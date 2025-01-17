@@ -530,7 +530,7 @@ Jos olet uusi täällä, voit klikata &quot;Lisää&quot;-painiketta lisätäkse
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication tunnusta ei ole määritetty.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -2995,7 +2995,7 @@ Sinun on ehkä korjattava modisi, koska peli kirjoittaa lokia edelleen tiedostoi
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft pääsyoikeuksia ei saatu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
