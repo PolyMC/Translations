@@ -7,101 +7,101 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பேச்ட்பின் பணி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பணி &amp; வகை ஒட்டவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிப்படை &amp; முகவரி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு: பேச்ட் பணி வகையை மாற்றிய பின் அடிப்படை முகவரி ஐ மாற்ற அல்லது அழிக்க விரும்பலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>பநிஇ விசைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; நுண்மென் ஏற்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு: நுண்மென் ஏற்பு ஏற்கனவே செயல்பட்டால் உள்நுழைந்தால் இதை நீங்கள் அமைக்க தேவையில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(இயல்புநிலை)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் அங்கீகாரத்திற்காக தனிப்பயன் கிளையன்ட் ஐடியை இங்கே உள்ளிடவும். </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்றவை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் முகவர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன் பயனர் முகவரை இங்கே உள்ளிடவும். சிறப்பு சரம் $ துவக்கி_வர் துவக்கியின் பதிப்போடு மாற்றப்படும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>மேவு &amp; தரவு சேவையகம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒட்டப்பட்ட நூலகங்கள் அல்லது பிற ஏக்குகளைப் பயன்படுத்த இதை மூன்றாம் தரப்பு மேனிலை தரவு சேவையகமாக அமைக்கலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>மெட்டாவுக்கு தனிப்பயன் முகவரி ஐ இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; CURSEFORGE வயிரம் பநிஇ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு: Curseforge ஏற்கனவே செயல்பட்டால் நீங்கள் இதை அமைக்க தேவையில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Curseforge க்கு தனிப்பயன் பநிஇ விசையை இங்கே உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>பநிஇ கள்</translation>
     </message>
 </context>
 <context>
@@ -110,122 +110,123 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆதரிக்கப்படாத நிறுவல் முறை</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியாத மோட் வகை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="651"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் உள்ளமைவுகளைத் திறக்கத் தவறிவிட்டது %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="742"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="886"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="897"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="970"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="982"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>அறியப்படாத ஏற்றி வகை: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
 </context>
 <context>
@@ -233,78 +234,78 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மின்கிராஃப்டின் பல நிகழ்வுகளை ஒரே நேரத்தில் வைத்திருக்க அனுமதிப்பதன் மூலம் Minecraft ஐ நிர்வகிப்பதை எளிதாக்கும் தனிப்பயன் துவக்கி. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்குதளம்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்கு தேதி:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>கமிட்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேனல்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>வரவு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>உரிமம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>கியுடி பற்றி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சுமார் %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்குதளம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>கமிட்: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>உருவாக்க தேதி: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>வாய்க்கால்</translation>
     </message>
 </context>
 <context>
@@ -313,118 +314,118 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>தேர்வு செய்யப்படாதது</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>இணையமில்லாமல்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ஆயத்தம்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>வேலை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>காலாவதியான</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>சென்றது</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>இதற்கில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>ஆம்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>இல்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர்பெயர்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>வகை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>நிலை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்பெயர முடியுமா?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft பயனர்பெயர் கணக்குடன் தொடர்புடையது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கின் பயனர் பெயர்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கின் வகை - மொசாங் அல்லது எம்.எச்.ஏ.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கின் தற்போதைய நிலை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கணக்கு நுண்மென் கணக்கிற்கு இடம்பெயர முடியுமா?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>முடக்கப்பட்டது</translation>
     </message>
 </context>
 <context>
@@ -433,81 +434,82 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சேர் &amp; மொசாங்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ரெமோ &amp; வெ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலையை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை இல்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சருமத்தை பதிவேற்றவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சருமத்தை நீக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போது செயலில் உள்ள தோலை நீக்கி, இயல்புநிலை ஒன்றிற்குச் செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; மைக்ரோசாப்ட் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு டோக்கன்களைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>வரவேற்கிறோம்!
+ நீங்கள் இங்கே புதியவர் என்றால், உங்கள் மோசாங் அல்லது மின்கிராஃப்ட் கணக்கைச் சேர்க்க &quot;சேர்&quot; பொத்தானைக் சொடுக்கு செய்யலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் கணக்கைச் சேர்க்க உங்கள் மொசாங் கணக்கு மின்னஞ்சல் மற்றும் கடவுச்சொல்லை உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் கணக்குகள் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -515,48 +517,50 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் கணக்குகள் MACOS 10.13 அல்லது புதியவற்றில் மட்டுமே பயன்படுத்தக்கூடியவை, முழுமையாக புதுப்பிக்கப்பட்ட %1.
+
+ உங்கள் இயக்க முறைமை மற்றும் %1 இரண்டையும் புதுப்பிக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>தோல் நீக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய சருமத்தை நீக்குவதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்குகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சேர் &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் ஒரு இணைப்பில்லாத கணக்கைச் சேர்ப்பதற்கு முன் Minecraft ஐக் கொண்ட மைக்ரோசாப்ட் அல்லது மொசாங் கணக்கைச் சேர்க்க வேண்டும். &lt;br&gt; &lt;br&gt; உங்கள் கணக்கை இழந்தால் மைக்ரோசாப்ட் ஆதரவுக்காக தொடர்பு கொள்ளலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் இணைப்பில்லாத கணக்கைச் சேர்க்க நீங்கள் விரும்பிய பயனர்பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் அங்கீகார கிளையன்ட் ஐடி அமைக்கப்படவில்லை.</translation>
     </message>
 </context>
 <context>
@@ -564,47 +568,47 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகார சேவையகங்களுக்கான கோரிக்கையை அனுப்புகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகார பணி செய் பெற்றது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகார சேவையகத்தைத் தொடர்பு கொள்ளத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகாரத்தின் போது ஒரு பிழையை எதிர்கொண்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகரிக்கத் தவறிவிட்டது. அமர்வு காலாவதியானது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகரிக்கத் தவறிவிட்டது. கணக்கு இனி இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அறியப்படாத கணக்கு பணி நிலை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளையன்ட் ஐடி மாறிவிட்டது. புதிய அமர்வு உருவாக்கப்பட வேண்டும்.</translation>
     </message>
 </context>
 <context>
@@ -612,12 +616,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -625,40 +629,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்துக்கள் குறியீட்டைப் புதுப்பித்தல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கான சொத்து அட்டவணை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்துக்கள் குறியீட்டைப் படிக்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்து கோப்புகளை மோசாங்கிலிருந்து பெறுவது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்துக்கள் குறியீட்டைப் பதிவிறக்குவதில் தோல்வி:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சொத்துக்களைப் பதிவிறக்குவதில் தோல்வி:
+ %1</translation>
     </message>
 </context>
 <context>
@@ -667,19 +673,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பிரபலத்தால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு பதிப்பால் வரிசைப்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
@@ -687,42 +693,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவ மோட்சைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>பரிந்துரைக்கப்பட்டதைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>பகிர்வு குறியீட்டைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>பகிர்வு குறியீட்டைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>பகிர்வு குறியீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>பகிர்வு குறியீடு எதுவும் குறிப்பிடப்படவில்லை!</translation>
     </message>
 </context>
 <context>
@@ -730,12 +736,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த மோட் இயக்க விரும்புகிறீர்கள் என்பதில் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>எச்சரிக்கை</translation>
     </message>
 </context>
 <context>
@@ -743,18 +749,18 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>எச்சரிக்கை: இது இன்னும் முன்னேற்றத்தில் உள்ளது. இறக்குமதி செய்யப்பட்ட மோட்பேக்குடன் நீங்கள் சிக்கல்களில் சிக்கினால், அது ஒரு பிழையாக இருக்கலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் மற்றும் வடிகட்டி ...</translation>
     </message>
 </context>
 <context>
@@ -762,22 +768,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 க்கு தற்போது பதிப்புகள் எதுவும் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்புகள் எதுவும் தற்போது கிடைக்கவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு பட்டியல்களை ஏற்றவோ பதிவிறக்கம் செய்யவோ முடியவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவுகிறது</translation>
     </message>
 </context>
 <context>
@@ -785,17 +791,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து அங்கீகார படிகளையும் முடித்தேன்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்குதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>வேலை ...</translation>
     </message>
 </context>
 <context>
@@ -803,7 +809,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரக் கைவிடப்பட்டது</translation>
     </message>
 </context>
 <context>
@@ -811,7 +817,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் திறக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -819,12 +825,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>கேப் சித்தப்படுத்துதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>கேப்பை நீக்குதல்</translation>
     </message>
 </context>
 <context>
@@ -832,7 +838,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா செக்கர் நூலகத்தைக் கண்டுபிடிக்க முடியவில்லை. உங்கள் நிறுவலை சரிபார்க்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -840,32 +846,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் வழங்குநரைத் தேர்வுசெய்க</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த மோட் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைவருக்கும் உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட ஒன்று தோல்வியுற்றால் மற்ற வழங்குநர்களை தானாகவே பயன்படுத்த முயற்சிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -874,33 +880,34 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>சில கூறு மேனிலை தரவு சுமை பணிகள் தோல்வியடைந்தன.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>சார்பு சரிபார்க்கும் போது முரண்பட்ட தேவைகள் கண்டறியப்பட்டன!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணமாக முரண்பட்ட சார்புகள் உள்ளன.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்கத்தை ஏற்றும்போது/சரிபார்க்கும்போது சான்று தீர்க்கப்படாத சார்புகளை கொண்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>தொலைநிலை சேவையகத்திலிருந்து பதிவிறக்கும் போது உபகரண மேனிலை தரவு புதுப்பிப்பு பணி தோல்வியடைந்தது:
+ %1</translation>
     </message>
 </context>
 <context>
@@ -908,12 +915,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்கும் அனைத்து பணிகளையும் கருக்கலைப்பு செய்யத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 பணி (களை) செயல்படுத்துதல் ( %3 இல் %2 செய்யப்படுகிறது)</translation>
     </message>
 </context>
 <context>
@@ -921,32 +928,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>நகல் நிகழ்வு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; குழு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>நகல் சேமிப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு நேரம் வைத்திருங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="80"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>குழு இல்லை</translation>
     </message>
 </context>
 <context>
@@ -954,7 +961,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>கோர் மோட்ச்</translation>
     </message>
 </context>
 <context>
@@ -962,7 +969,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>முக்கிய விளையாட்டு கோப்புறையை உருவாக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -971,31 +978,31 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பி &amp; ஆச்ட்-எக்சிட் கட்டளை:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; முன் வெளியீட்டு கட்டளை:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; ரேப்பர் கட்டளை:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; நிகழ்வு தொடங்குவதற்கு முன்பே இயங்குவதற்கு முன்பே இயங்குகிறது மற்றும் அதற்குப் பிறகு வெளியேற்றும் கட்டளை இயங்கும். சுற்றுச்சூழல் மாறிகள்: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; $ inst_name - உதாரணத்தின் பெயர் &lt;/li&gt; &lt;li&gt; $ inst_id - உதாரணத்தின் ஐடி (அதன் கோப்புறை பெயர்) &lt;/li&gt; &lt;li&gt; $ inst_dir - முழுமையானது உதாரணத்தின் பாதை &lt;/li&gt; &lt;li&gt; $ inst_mc_dir - Minecraft இன் முழுமையான பாதை &lt;/li&gt; &lt;li&gt; $ inst_java - துவக்கத்திற்குப் பயன்படுத்தப்படும் சாவா பைனரி &lt;/li&gt; &lt;li&gt; $ inst_java_args - துவக்கத்திற்கு பயன்படுத்தப்படும் கட்டளை -வரி அளவுருக்கள் . html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1003,7 +1010,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன் கட்டளைகள்</translation>
     </message>
 </context>
 <context>
@@ -1011,20 +1018,20 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>ரேப்பர் கட்டளை &quot;%1&quot; கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் தொடங்க முடியவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு செயலிழந்தது.</translation>
     </message>
 </context>
 <context>
@@ -1032,17 +1039,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="14"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>புகுபதிவு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்னஞ்சல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>கடவுச்சொல்</translation>
     </message>
 </context>
 <context>
@@ -1050,29 +1057,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சுக்கு மேனிலை தரவு இருக்கிறதா என்று சோதித்துப் பார்க்கிறார் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 இலிருந்து மேனிலை தரவு தகவல்களைக் கோருகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos; %2&apos; க்கு %1 இலிருந்து மேனிலை தரவு தகவல்களைக் கோருகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; க்கு மோட்ரின்ட்டிலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
 </context>
 <context>
@@ -1080,12 +1087,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு உரிமையை தீர்மானித்தல்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>உரிமைகள் கிடைத்தன</translation>
     </message>
 </context>
 <context>
@@ -1093,34 +1100,34 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி நிகழ்வு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுமதி %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலெழுதவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கோப்பு ஏற்கனவே உள்ளது. அதை மேலெழுத விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தை ஏற்றுமதி செய்ய முடியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -1128,99 +1135,99 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>வடிகட்டி:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சேர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; அகற்று</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை அகற்று</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; இயக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; முடக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட உருப்படியை முடக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை &amp; கட்டமைப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணினி கோப்பு மேலாளரில் &apos;கட்டமைப்பு&apos; கோப்புறையைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை &amp; கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய ஆதாரத்தைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து வளங்களையும் சரிபார்க்க அல்லது புதுப்பிக்க முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படவில்லை என்றால் அனைத்து வளங்களும்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="151"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 ஐத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -1230,28 +1237,28 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிப்புற ஆசிரியர்கள் (கணினி இயல்புநிலைக்கு காலியாக விடவும்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உரை ஆசிரியர்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிப்புற கருவிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Jprofiler கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1261,80 +1268,83 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jprofiler நிறுவலைச் சரிபார்க்கும்போது பிழை:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Jprofiler அமைப்பு சரியாக இருப்பதாக தெரிகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualvm இயங்கக்கூடியது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualvm நிறுவலைச் சரிபார்க்கும்போது பிழை:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualvm அமைப்பு சரியாக இருப்பதாக தெரிகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEDIT விண்ணப்பம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEDIT கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEDIT நிறுவலைச் சரிபார்க்கும்போது பிழை:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEDIT அமைப்பு சரியாக இருப்பதாக தெரிகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>சாதொபொகு ஆசிரியர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>செல்லுபடியாகாத</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட கோப்பு இயங்கக்கூடியதாகத் தெரியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -1342,7 +1352,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>இலக்கு &apos;%2&apos; க்கு சொந்த சாடியை &apos;%1&apos; பிரித்தெடுக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -1350,32 +1360,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML நூலகங்களை பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1384,7 +1394,11 @@ Please update both your operating system and %1.</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:
+ %1
+
+ காரணம்:%2
+ மீண்டும் முயற்சிக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -1392,7 +1406,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் ஐடிகளைத் தீர்ப்பது ...</translation>
     </message>
 </context>
 <context>
@@ -1400,34 +1414,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Curseforge க்கு மோட்சைத் தயாரித்தல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் நகல் சிக்கல்களைத் தடுக்க, முடக்கப்பட்ட மோட்ச் புதுப்பிக்கப்படாது!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலைப் பெறுதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; க்கு Curseforge இலிருந்து பநிஇ பதிலை பாகுபடுத்துதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த மோடுக்கு செல்லுபடியாகும் பதிப்பு எதுவும் கிடைக்கவில்லை. தற்போதைய விளையாட்டு பதிப்பு / மோட் ஏற்றிக்கு இது கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மோட் ஒரு புதிய புதுப்பிப்பைக் கொண்டுள்ளது, ஆனால் Curseforge ஐப் பயன்படுத்தி பதிவிறக்கம் செய்ய முடியாது.</translation>
     </message>
 </context>
 <context>
@@ -1437,116 +1451,121 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (பதிப்பு %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>இதேபோன்ற மோட்பேக் கண்டுபிடிக்கப்பட்டது!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் நிகழ்வுகளில் ஒன்று அல்லது அதற்கு மேற்பட்டவை இதே மோட்பேக்%1. நீங்கள் ஒரு தனி நிகழ்வை உருவாக்க விரும்புகிறீர்களா, அல்லது ஏற்கனவே உள்ளதைப் புதுப்பிக்க விரும்புகிறீர்களா?
+
+ குறிப்பு: புதுப்பிப்பதற்கு முன் உங்கள் முக்கியமான நிகழ்வு தரவின் காப்புப்பிரதியை நீங்கள் செய்துள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள், ஏனெனில் உலகங்கள் சிதைக்கப்படலாம் மற்றும் சில உள்ளமைவுகள் இழக்கப்படலாம் (பேக் மேலெழுதல்களின் காரணமாக).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>இருக்கும் நிகழ்வைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய நிகழ்வை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டு கோப்பு இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>பழைய பதிப்பிற்கு பொருத்தமான குறியீட்டு கோப்பை எங்களால் கண்டுபிடிக்க முடியவில்லை. இது சில கோப்புகளை நகலெடுக்கக்கூடும். நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>மேலெழுதும் கோப்புறையை மறுபெயரிட முடியவில்லை:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பிட்ட மேலெழுதும் கோப்புறை (%1) காணவில்லை. மோட்பேக் ஏற்கனவே பயன்படுத்தப்பட்டிருக்கலாம்?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிப்படையில் தெரியாத மோட் ஏற்றி: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் இறக்குமதி செய்யும் போது Minecraft பதிப்பிலிருந்து மர்மமான பின்தங்கிய புள்ளிகள் அகற்றப்பட்டன.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MINECRAFT %1 க்கான ஃபோர்ச் பதிப்பை பரிந்துரைக்க முடியவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் ஐடிகளை தீர்க்க முடியவில்லை:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்றாம் தரப்பு துவக்கிகளில் பின்வரும் மோட்கள் தடுக்கப்பட்டன. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை மோட்பேக்கில் சேர்க்க வேண்டும்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த &apos;கோப்புறையில்&apos; பிரித்தெடுக்க வேண்டியிருக்கலாம்: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்குகளில் கூடு கட்டுவது செயல்படுத்தப்படவில்லை, எதுவும் பதிவிறக்கம் செய்யப்படவில்லை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>அங்கீகரிக்கப்படாத/மறுக்கப்படாத பேக்கசெட்டைப்: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
 </context>
 <context>
@@ -1554,33 +1573,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பு மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>பிரபலத்தால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கடைசியாக புதுப்பிக்கப்பட்டதன் மூலம் வரிசைப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்தாளர் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவிறக்கங்கள் மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
@@ -1588,91 +1607,91 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு: பாலிம்க் போன்ற மூன்றாம் தரப்பு கருவிகளுக்கான அணுகலைத் தடுக்க Curseforge படைப்பாளர்களை அனுமதிக்கிறது. எனவே, ஒரு மோட்பேக்கை நிறுவ சில மோட்களை கைமுறையாக பதிவிறக்கம் செய்ய வேண்டியிருக்கலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் மற்றும் வடிகட்டி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சிறப்பு மூலம் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பிரபலத்தால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கடைசியாக புதுப்பிக்கப்பட்டதன் மூலம் வரிசைப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்தாளர் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மொத்த பதிவிறக்கங்களால் வரிசைப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு எதுவும் கிடைக்கவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> மூலம் </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="242"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளிப்புற இணைப்புகள்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="246"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>சிக்கல்கள்: &lt;a href =%1&gt;%1 &lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="248"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>விக்கி: &lt;a href =%1&gt;%1 &lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>மூல குறியீடு: &lt;a href =%1&gt;%1 &lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1681,7 +1700,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் பைனரிகளுக்கான கோப்புறையை உருவாக்கத் தவறிவிட்டது.</translation>
     </message>
 </context>
 <context>
@@ -1690,19 +1709,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>நாடகங்களால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல்களின் மூலம் வரிசைப்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
@@ -1710,13 +1729,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் மற்றும் வடிகட்டி ...</translation>
     </message>
 </context>
 <context>
@@ -1724,12 +1743,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>விசை</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>மதிப்பு</translation>
     </message>
 </context>
 <context>
@@ -1737,7 +1756,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு விருப்பங்கள்</translation>
     </message>
 </context>
 <context>
@@ -1745,32 +1764,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="90"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>உயிர்வாழ்வு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="92"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>படைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="94"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>துணிவு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="96"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வையாளர்</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரியாத (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="103"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>வரையறுக்கப்படவில்லை</translation>
     </message>
 </context>
 <context>
@@ -1778,12 +1797,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>தோல் பெறுதல்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>தோல் கிடைத்தது</translation>
     </message>
 </context>
 <context>
@@ -1791,47 +1810,47 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="48"/>
         <source>Loading version information...</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு தகவல்களை ஏற்றுகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="85"/>
         <source>Failed to download version info files.</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு செய்தி கோப்புகளைப் பதிவிறக்குவதில் தோல்வி.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="93"/>
         <source>Reading file list for new version...</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய பதிப்பிற்கான கோப்பு பட்டியலைப் படித்தல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="106"/>
         <source>Reading file list for current version...</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய பதிப்பிற்கான கோப்பு பட்டியலைப் படித்தல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="121"/>
         <source>Processing file lists - figuring out how to install the update...</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பட்டியல்களை செயலாக்குகிறது - புதுப்பிப்பை எவ்வாறு நிறுவுவது என்பதைக் கண்டுபிடிப்பது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="129"/>
         <source>Failed to process update lists...</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு பட்டியல்களை செயலாக்குவதில் தோல்வி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
         <source>Downloading one update file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு புதுப்பிப்பு கோப்பைப் பதிவிறக்குகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="144"/>
         <source>Downloading %1 update files.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 புதுப்பிப்பு கோப்புகளைப் பதிவிறக்குகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
         <source>Failed to download update files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு கோப்புகளைப் பதிவிறக்குவதில் தோல்வி: %1</translation>
     </message>
 </context>
 <context>
@@ -1839,33 +1858,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐகானைத் தேர்ந்தெடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐகானைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐகானை அகற்று</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ஐகான்களைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சின்னங்கள் %1</translation>
     </message>
 </context>
 <context>
@@ -1873,54 +1892,54 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்வரும் கோப்பு வகைகள் செயல்படுத்தப்படுகின்றன (உள்ளூர் கோப்புகள் மற்றும் முகவரி களுக்கு):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CURSEFORGE MODPACKS (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth modpacks (ZIP and mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- பாலிம்க் / மல்டிம்க் ஏற்றுமதி செய்யப்பட்ட நிகழ்வுகள் (சிப்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- தொழில்நுட்ப மோட்பேக்குகள் (சிப்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளக கோப்பு அல்லது நேரடி பதிவிறக்கத்திற்கான இணைப்பு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மோட்ரிந்த் பேக்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>ModPack ஐத் தேர்வுசெய்க</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation type="unfinished"></translation>
+        <translation>சிப்பிலிருந்து இறக்குமதி</translation>
     </message>
 </context>
 <context>
@@ -1928,7 +1947,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>பெயர்</translation>
     </message>
 </context>
 <context>
@@ -1936,12 +1955,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பெயர்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; குழு:</translation>
     </message>
 </context>
 <context>
@@ -1949,17 +1968,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தை நகலெடுக்கும் %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு கோப்புறை நகல் தோல்வியடைந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு கோப்புறை நகல் நிறுத்தப்பட்டுள்ளது.</translation>
     </message>
 </context>
 <context>
@@ -1967,17 +1986,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய நிகழ்வை உருவாக்கும் போது பிழை.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
     </message>
 </context>
 <context>
@@ -1986,38 +2005,39 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="84"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கைப் பதிவிறக்குகிறது:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="93"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack பதிவிறக்கம்</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="138"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="254"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>காப்பகத்தில் அங்கீகரிக்கப்பட்ட மோட்பேக் வகை இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கைப் பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="230"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
 </context>
 <context>
@@ -2025,7 +2045,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 நிகழ்வு</translation>
     </message>
 </context>
 <context>
@@ -2033,7 +2053,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="59"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வைத் திருத்து (%1)</translation>
     </message>
 </context>
 <context>
@@ -2041,254 +2061,254 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="29"/>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகளாவிய அமைப்புகளைத் திறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>இங்குள்ள அமைப்புகள் உலகளாவிய அமைப்புகளுக்கான மேலெழுதல்கள்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா இன்ச்டா &amp; லேசன்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்டோ-கண்டறிதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவுக ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்வு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>நினைவகம் &amp; மற்றும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="170"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பு: பெர்ம்சென் தானாகவே சாவா 8 மற்றும் அதற்குப் பிறகு அமைக்கப்படுகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா வாதங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="247"/>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft அதிகபட்சமாகத் தொடங்கவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளர உயரம்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளர அகலம்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>கான்ச் &amp; அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="331"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="338"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரம் திறந்த பிறகு துவக்கத்தை மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="408"/>
         <source>Workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>பணித்தொகுப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="417"/>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>பூர்வீக நூலகங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="429"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation>GLFW இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓபனலின் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="355"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="528"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்றவை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்திறன்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகளாவிய விளையாட்டு நேர அமைப்புகளை மீறவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நிகழ்வை விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நிகழ்வை விளையாடுவதற்கு பதிவு நேரம் செலவிட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Set a server to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்கத்தில் சேர ஒரு சேவையகத்தை அமைக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="586"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையக முகவரி:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகள்</translation>
     </message>
 </context>
 <context>
@@ -2296,7 +2316,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>பல முயற்சிகளுக்குப் பிறகும் சான்று செய்யத் தவறிவிட்டது. அது ஏதோவொன்றால் தடுக்கப்படுகிறது.</translation>
     </message>
 </context>
 <context>
@@ -2304,49 +2324,49 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>கன்சோல் சாளரம் </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆஃப்லைனில் தொடங்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>டெமோ தொடங்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
         <source>Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>கொலை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்கும் நிகழ்வைக் கொல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="176"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="163"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="178"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தைத் தொடங்கவும்</translation>
     </message>
 </context>
 <context>
@@ -2354,12 +2374,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="34"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>போர்ட்டில் கேட்பது: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரக் கைவிடப்பட்டது</translation>
     </message>
 </context>
 <context>
@@ -2367,12 +2387,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="32"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualvm தொடங்கியது</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரக் கைவிடப்பட்டது</translation>
     </message>
 </context>
 <context>
@@ -2380,7 +2400,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="166"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா நிறுவல்களைக் கண்டறிதல் ...</translation>
     </message>
 </context>
 <context>
@@ -2388,98 +2408,98 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>நினைவகம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>மா &amp; சிமோ நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="150"/>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா இயக்க நேரம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>சே.வி.எம் வாதங்கள்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சாவா பாதை:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தானாக கண்டறிதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சோதனை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டிருந்தால், ஒன்று கண்டுபிடிக்கப்படாவிட்டால் சாவா பதிப்பைத் தேர்வுசெய்ய துவக்கி உங்களைத் தூண்டாது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா &amp; வழிகாட்டி தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கப்பட்டால், தேர்ந்தெடுக்கப்பட்ட சாவா பதிப்போடு ஒரு நிகழ்வு இணக்கமாக இருக்கிறதா என்று துவக்கி சரிபார்க்காது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சாவா பொருந்தக்கூடிய காசோலைகளைத் தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="137"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா பதிப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="150"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா</translation>
     </message>
 </context>
 <context>
@@ -2487,7 +2507,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="156"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா பதிப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="157"/>
@@ -2497,47 +2517,52 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் சாவா பதிப்பைத் தேர்ந்தெடுக்கவில்லை அல்லது வேலை செய்யாத ஒன்றைத் தேர்ந்தெடுத்தீர்கள்.
+ %1 மின்கிராஃப்ட் தொடங்க முடியாது.
+ நீங்கள் எந்த சாவா இல்லாமல் தொடர விரும்புகிறீர்களா?
+
+ நீங்கள் பின்னர் அமைப்புகளில் சாவா பதிப்பை மாற்றலாம்.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா இயங்கக்கூடியதைக் கண்டறியவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="430"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>நினைவகம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அதிகபட்ச அளவு பயன்படுத்த அனுமதிக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="432"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைந்தபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="433"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்ச நினைவக ஒதுக்கீடு:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் நினைவகத்தின் அளவு தொடங்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="435"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட சாவா வகுப்புகளை சேமிக்க கிடைக்கக்கூடிய நினைவகத்தின் அளவு.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="436"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவு</translation>
     </message>
 </context>
 <context>
@@ -2545,7 +2570,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>சாவா</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
@@ -2553,7 +2578,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உங்களிடம் இன்னும் வேலை செய்யும் சாவா அமைக்கப்படவில்லை அல்லது அது காணாமல் போயிருந்தது.
+ தயவுசெய்து பின்வருவனவற்றில் ஒன்றைத் தேர்ந்தெடுக்கவும் அல்லது சாவா இயங்கக்கூடிய ஒரு உலாவவும்.</translation>
     </message>
 </context>
 <context>
@@ -2561,7 +2587,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="56"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழி</translation>
     </message>
 </context>
 <context>
@@ -2569,7 +2595,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் மொழியைப் பார்க்கவில்லையா அல்லது தகுதி மோசமாக உள்ளது? &lt;br/&gt; &lt;a href = &quot;%1&quot;&gt; மொழிபெயர்ப்புகளுக்கு எங்களுக்கு உதவுங்கள்! &lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2577,12 +2603,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="46"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>மொழி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 இல் பயன்படுத்த மொழியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -2590,52 +2616,52 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த நிகழ்வும் குறிப்பிடப்படவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>தவறான சாவா வாதங்கள் குறிப்பிடப்பட்டுள்ளன. இதை முதலில் சரிசெய்யவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்குகள் இல்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த கணக்கைப் பயன்படுத்த விரும்புகிறீர்கள்?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்க எந்த கணக்கு தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>வீரர் பெயர்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் இணைப்பில்லாத பயன்முறை வீரர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் டெமோ பயன்முறை பிளேயர் பெயரைத் தேர்வுசெய்க.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்நுழைவின் போது தீர்மானிக்கப்படாத அமர்வு நிலையைப் பெற்றது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="239"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>டெமோ விளையாடவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="240"/>
@@ -2643,142 +2669,147 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த கணக்கில் மின்கிராஃப்ட் இல்லை.
+ அதை விளையாட முதலில் விளையாட்டை வாங்க வேண்டும்.
+
+ நீங்கள் டெமோ விளையாட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>டெமோ விளையாடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏவுதல் ரத்து செய்யப்பட்டது - கணக்கில் Minecraft இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="269"/>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆஃப்லைனில் விளையாடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="282"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு காலாவதியானது மற்றும் கைமுறையாக மீண்டும் உள்நுழைய வேண்டும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="285"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="306"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு இனி சேவையகங்களில் இல்லை. இது இடம்பெயர்ந்திருக்கலாம், இந்த விசயத்தில் நீங்கள் இதை இடம்பெயர்ந்த புதிய கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு போய்விட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="319"/>
         <source>Failed to launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடங்கத் தவறிவிட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <location filename="src/launcher/LaunchController.cpp" line="330"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு சுயவிவரத்தை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு துவக்கியை உடனடிப்படுத்த முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரத்தைத் தொடங்க முடியவில்லை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="410"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் பொத்தானை அழுத்தும் வரை விளையாட்டு வெளியீடு தாமதமாகும். சுயவிவர சேவையகம் இப்போது இயங்குவதால், சுயவிவரத்தை அமைப்பதற்கான சரியான நேரம் இது.
+
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>காத்திருக்கிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="415"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரத்தைத் தொடங்க முடியவில்லை: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="452"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்டைக் கொல்லவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>இது சான்று சிதைவதற்கு காரணமாக இருக்கலாம், மேலும் சில காரணங்களால் Minecraft உறைந்திருந்தால் மட்டுமே பயன்படுத்தப்பட வேண்டும்</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்கியின் கிளையன்ட் அடையாளம் மாறிவிட்டது. தயவுசெய்து இந்த கணக்கை அகற்றி மீண்டும் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடங்கத் தொடரவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 முயற்சிகளுக்குப் பிறகு எங்களால் தொடங்க முடியவில்லை என்று தெரிகிறது. நீங்கள் தொடர்ந்து முயற்சி செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>வாடிக்கையாளர் அடையாளம் மாற்றப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft ஐ விளையாடுவதற்கு, உங்களிடம் குறைந்தது ஒரு மைக்ரோசாப்ட் அல்லது மோசாங் கணக்கு உள்நுழைந்திருக்க வேண்டும். மொசாங் கணக்குகளை ஆஃப்லைனில் மட்டுமே பயன்படுத்த முடியும். இப்போது ஒரு கணக்கைச் சேர்க்க கணக்கு மேலாளரைத் திறக்க விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -2787,7 +2818,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் விளையாட்டு பதிவைப் பார்ப்பதை நிறுத்தியது.
+ உங்கள் மோட்களை நீங்கள் சரிசெய்ய வேண்டியிருக்கும், ஏனென்றால் விளையாட்டு இன்னும் கோப்புகளுக்கு உள்நுழைந்துள்ளது மற்றும் ஆபத்தான விகிதத்தில் ஆர்ட் இயக்கி இடத்தை வீணாக்குகிறது!</translation>
     </message>
 </context>
 <context>
@@ -2795,18 +2827,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>மோசாங் சேவைகளை அணுகும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft அணுகல் கிள்ளாக்கைப் பெறுவதில் தோல்வி: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft அணுகல் கிள்ளாக்கு பதிலை அலசத் தவறிவிட்டது.</translation>
     </message>
 </context>
 <context>
@@ -2814,213 +2846,213 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>நற்பொருத்தங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகளை புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்புகளை தானாக சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>அப் &amp; தேதி சேனல்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
         <source>No channel selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த சேனலும் தேர்ந்தெடுக்கப்படவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>நான் &amp; nstances:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; மோட்ச்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சின்னங்கள்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>பயனர் இடைமுகம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணமாக பார்வை வரிசையாக்க பயன்முறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கடைசியாக தொடங்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>வழங்கியவர் &amp; பெயர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பொருள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சின்னங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய (இருண்ட சின்னங்கள்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய (ஒளி சின்னங்கள்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய (நீல சின்னங்கள்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>எளிய (வண்ண சின்னங்கள்)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்ச்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்சுக்கு மோட் வழங்குநர்கள் (மோட்ரின்த் அல்லது சக்ச்போர்ச் போன்றவை) வழங்கிய மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கு.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்களுக்கு மெட்டாடேட்டாவைப் பயன்படுத்தி முடக்கவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-Weight: 600; வண்ணம்:#F5C211;&quot;&gt; எச்சரிக்கை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;color:#f5c211;&quot;&gt;: முடக்குதல் மோட் மேனிலை தரவு மோட் புதுப்பித்தல் போன்ற சில QOL அம்சங்களையும் முடக்கலாம்!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பயன்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>நிறங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>விசைப்பலகை இயக்கப்படும் தொடர்புக்கு மெனுபார் மிகவும் நட்பாக உள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கருவிப்பட்டியை மெனுபருடன் மாற்றவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>கன்சோல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>கன்சோல் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு இயங்கும்போது கன்சோலைக் காட்டு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு வெளியேறும்போது தானாக கன்சோலை மூடு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு செயலிழக்கும்போது கன்சோலைக் காட்டு?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; வரலாற்று வரம்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>உள்நுழைவதை நிறுத்துங்கள் பதிவு நிரம்பி வழிகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> கோடுகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கன்சோல் &amp; எழுத்துரு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் ஒரு நிகழ்வு கோப்புறையைக் குறிப்பிட முயற்சிக்கிறீர்கள், அதில் பாதையில் குறைந்தது ஒன்று &apos;!&apos;. சாவா சிக்கல்களை ஏற்படுத்தும் என்று அறியப்படுகிறது, அப்படியானால், உங்கள் நிகழ்வுகள் (அநேகமாக) தொடங்காது!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த பாதையை நீங்கள் உண்மையில் பயன்படுத்த விரும்புகிறீர்களா? &quot;இல்லை&quot; என்பதைத் தேர்ந்தெடுப்பது இதை மூடும், உங்கள் நிகழ்வு பாதையை மாற்றாது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
@@ -3028,47 +3060,50 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>பிளாட்பாக் வழியாக தற்காலிகமாக வழங்கப்பட்ட ஒரு நிகழ்வு கோப்புறையை நீங்கள் குறிப்பிட முயற்சிக்கிறீர்கள்.
+ இது சிக்கல்களை ஏற்படுத்தும் என்று அறியப்படுகிறது. மறுதொடக்கம் செய்த பிறகு துவக்கி உடைக்கப்படலாம், ஏனென்றால் அதற்கு இனி அந்த கோப்பகத்தை அணுக முடியாது.
+
+ பிளேட்சல் வழியாக பாலிமிசி அணுகலை வழங்குவது பரிந்துரைக்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீங்கள் எப்படியும் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐகான்ச் கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்ச் கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ஏதோ/பிழை] ஒரு பயமுறுத்தும் பிழை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[சோதனை/தகவல்] பாதிப்பில்லாத செய்தி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="512"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[ஏதோ/எச்சரிக்கை] அவ்வளவு பயமுறுத்தும் எச்சரிக்கை இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைவளைவு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>மரபு</translation>
     </message>
 </context>
 <context>
@@ -3076,25 +3111,25 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்கி நூலகத்தைக் கண்டுபிடிக்க முடியவில்லை. உங்கள் நிறுவலை சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>ரேப்பர் கட்டளை &quot;%1&quot; கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>மின்கிராஃப்ட் தொடங்க முடியவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு செயலிழந்தது.</translation>
     </message>
 </context>
 <context>
@@ -3103,13 +3138,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="54"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="55"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு பதிப்பால் வரிசைப்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
@@ -3117,17 +3152,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="116"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது மோட்பேக்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்றாம் தரப்பு மோட்பேக்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>தனியார் மோட்பேக்</translation>
     </message>
 </context>
 <context>
@@ -3135,17 +3170,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="122"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது பொதிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்றாம் தரப்பு பொதிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>சில பேக் பட்டியல்களைப் பதிவிறக்குவதில் தோல்வி: %1</translation>
     </message>
 </context>
 <context>
@@ -3153,38 +3188,38 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="67"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கு சிப் பதிவிறக்குகிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="111"/>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கு ZIP ஐ பதிவிறக்குகிறது (%2%)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக் கோப்பு %1 ஐ திறக்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="155"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="162"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>அன்சிப் செய்யப்பட்ட மின்கிராஃப்டை நகர்த்துவதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="229"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் முறை எதுவும் கிடைக்கவில்லை!</translation>
     </message>
 </context>
 <context>
@@ -3192,78 +3227,79 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="21"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>பொது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="48"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>3 வது கட்சி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="75"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>தனிப்பட்ட</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="94"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட பேக்கை அகற்று</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>பணி கைவிடப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>பணி பயனரால் கைவிடப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB தனியார் பொதிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="242"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீடு %1 க்கான பேக் தகவல்களைப் பதிவிறக்குவதில் தோல்வி.
+ இப்போது அதை அகற்ற வேண்டுமா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB பேக் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் குறியீட்டை உள்ளிடவும்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="404"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் அகற்று</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="405"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக் %1 ஐ அகற்ற விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
@@ -3271,17 +3307,17 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Getting the library files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>மொசாங்கிலிருந்து நூலகக் கோப்புகளைப் பெறுதல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணமாக நூலகங்கள் %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>சுழிய குடுவை மெட்டாடேட்டாவில் குறிப்பிடப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -3290,19 +3326,25 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;உள்ளக&apos; எனக் குறிக்கப்பட்ட சில கலைப்பொருட்கள் அவற்றின் கோப்புகளைக் காணவில்லை:
+ %1
+
+ நீங்கள் கோப்புகளைச் சேர்க்க வேண்டும், அல்லது தேவைப்படும் தொகுப்புகளை அகற்ற வேண்டும்.
+ இந்த சிக்கலை நீங்கள் கைமுறையாக சரிசெய்ய வேண்டும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு புதுப்பிப்பு தோல்வியடைந்தது: தேவையான நூலகங்களை பெறுவது சாத்தியமில்லை.
+ காரணம்:
+ %1</translation>
     </message>
 </context>
 <context>
@@ -3311,12 +3353,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட் க்கான குறியீட்டைப் புதுப்பித்தல்:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>தவறான மேனிலை தரவு</translation>
     </message>
 </context>
 <context>
@@ -3324,67 +3367,67 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பித்துக்கொண்டே இருங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>மடக்கு கோடுகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு பதிவையும் கிளிப்போர்டில் நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு (&amp;c)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பங்களில் கட்டமைக்கப்பட்ட பேச்ட் சேவையில் பதிவைப் பதிவேற்றவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவேற்றும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிவை அழிக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>தெளிவான</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>கண்டுபிடி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா வழிகளிலும் கீழே உருட்டவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>கீழே</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft பதிவு</translation>
     </message>
 </context>
 <context>
@@ -3393,29 +3436,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>குறியீடு %1 உடன் வெளியேறும் செயல்முறை.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறை செயலிழந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>எக்சிட் கோட் %1 உடன் செயல்முறை செயலிழந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறை பயனரால் கொல்லப்பட்டது.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்முறை தொடங்கத் தவறிவிட்டது.</translation>
     </message>
 </context>
 <context>
@@ -3423,17 +3466,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>மின்னஞ்சல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>கடவுச்சொல்</translation>
     </message>
 </context>
 <context>
@@ -3441,17 +3484,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் கணக்கைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>பக்கத்தைத் திறந்து குறியீட்டை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; தயவுசெய்து ஒரு உலாவியில் %1 ஐத் திறந்து குறியீட்டில் தொடர &lt;b&gt; %2 &lt;/b&gt; குறியீட்டில் வைக்கவும். &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3459,37 +3502,37 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் கணக்கில் உள்நுழைக.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைத்தது </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் பயனர் ஏற்பு பிணைய பிழையுடன் முடிந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் பயனர் ஏற்பு தோல்வியடைந்தது - பயனர் இனி இல்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் பயனர் ஏற்பு தோல்வியடைந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் பயனர் ஏற்பு அங்கீகரிக்கப்படாத முடிவுடன் முடிந்தது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>நுண்மென் பயனர் ஏற்பு தோல்வியுற்றது - கிளையன்ட் அடையாளம் மாறிவிட்டது.</translation>
     </message>
 </context>
 <context>
@@ -3497,502 +3540,502 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>இயங்கும் நிகழ்வைக் கொல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1217"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="665"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வைத் தொடங்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="433"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>முதன்மையான கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு புதிய நிகழ்வைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; நிகழ்வு கோப்புறையைக் காண்க</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="306"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு கோப்பு உலாவியில் நிகழ்வு கோப்புறையைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை &amp; சென்ட்ரல் மோட்ச் கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு உலாவியில் சென்ட்ரல் மோட்ச் கோப்புறையைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="879"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வுகளுக்கு இடையில் பகிரப்பட்ட கோப்புறைகளில் ஒன்றைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Change settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகளை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு பிழையை %1 உடன் புகாரளிக்க பிழை டிராக்கரைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த %1 சப்ரெடிட்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 பற்றிய தகவல்களைக் காண்க.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="468"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 அல்லது Minecraft உடன் உதவி பெறுங்கள்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 க்கான புதிய புதுப்பிப்புகளைச் சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>இது ஒரு பஞ்சுபோன்ற கிட்டி: 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="787"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>ஐகானை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கொலை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanc &amp; இ ஐச் சேர்க்கவும் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>எஃப் &amp; ஓல்டர்ச்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>கணம் &amp; ngs ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒரு பிழையைப் புகாரளிக்கவும் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; மேட்ரிக்ச் இடம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; டிச்கார்ட் கில்ட்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>துணை &amp; ரெடிட்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சுமார் %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; புதுப்பித்தல் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; மியாவ்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கணக்குகளை நிர்வகிக்கவும் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="497"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு (&amp;f)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்க (&amp;v)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சுயவிவரங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி (&amp;h)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>சாளரத்தை மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="564"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்போதைய சாளரத்தை மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp; உதவி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 விக்கியைத் திறக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="578"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp; செய்தி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="640"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வின் ஐகானை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Rename the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை மறுபெயரிடுங்கள்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்க &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+k</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="690"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>INST &amp; ANCE ஐத் திருத்து ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+i</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>மின் &amp; அது குறிப்புகள் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="703"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>பார்வை &amp; மோட்ச்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; உலகங்களைக் காண்க</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>நிர்வகி &amp; திரை சாட்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; குழுவை மாற்றவும் ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Minec &amp; Raft கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+m</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>கான்ஃபி &amp; ஐயா கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; நிகழ்வு கோப்புறை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>E&amp;xport Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>மின் &amp; எக்ச்போர்ட் நிகழ்வு ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+e</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>பேக்ச்பேச்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="766"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>காப் &amp; ஒய் நிகழ்வு ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+d</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>Launch Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆஃப்லைனில் தொடங்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="671"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை இணைப்பில்லாத பயன்முறையில் தொடங்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கடைசி நிகழ்வு நீக்குதலை செயல்தவிர்க்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>திருத்து (&amp;e)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>துவக்க &amp; டெமோ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை டெமோ பயன்முறையில் தொடங்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வு அமைப்புகள், மோட்கள் மற்றும் பதிப்புகளை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Edit the notes for the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்விற்கான குறிப்புகளைத் திருத்தவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நிகழ்வின் மோட்களைக் காண்க.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>View the worlds of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த நிகழ்வின் உலகங்களைக் காண்க.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>View and upload screenshots for this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த உதாரணத்திற்கு திரை சாட்களைக் காணவும் பதிவேற்றவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வின் குழுவை மாற்றவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வின் மின்கிராஃப்ட் கோப்புறையை ஒரு கோப்பு உலாவியில் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>Open the instance&apos;s config folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வின் கட்டமைப்பு கோப்புறையைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வின் ரூட் கோப்புறையை கோப்பு உலாவியில் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தை நீக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Delete the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை நீக்கு.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை நகலெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="978"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1099"/>
         <source>No instance selected</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த உதாரணமும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>மொத்த விளையாட்டு நேரம்: 0 கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
         <source>Create instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தை உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1168"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; குழுவை நீக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1220"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+shift+o</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>டெமோ தொடங்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+alt+o</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
         <source>Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 இணைப்பில்லாத</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>சுயவிவரத்தை சரியாக அமைக்கவில்லை. அமைப்புகளுக்குச் செல்லுங்கள், &quot;வெளிப்புற கருவிகள்&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1314"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்குகள் எதுவும் சேர்க்கப்படவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1361"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை கணக்கு இல்லை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1365"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
@@ -4001,65 +4044,67 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1701"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு பதிவிறக்கங்களுக்கான கோப்புறையை உருவாக்க முடியவில்லை:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1643"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>பணி கைவிடப்பட்டது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>பணி பயனரால் கைவிடப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1693"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்களிடம் குறைந்தது ஒரு கணக்கை சேர்க்காவிட்டால், துவக்கி மின்கிராஃப்ட் அல்லது புதுப்பிப்பு நிகழ்வுகளைப் பதிவிறக்க முடியாது.
+ உங்கள் மொசாங் அல்லது மின்கிராஃப்ட் கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1841"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>குழு பெயர்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1841"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய குழு பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>குழுவை நீக்கு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1863"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>குழு %1 ஐ நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2010"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>கவனமாக!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2011"/>
@@ -4067,82 +4112,85 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கப் போவது: %1
+ இது நிரந்தரமானது மற்றும் உதாரணத்தை முற்றிலுமாக நீக்கும்.
+
+ நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தை மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2236"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் நிகழ்வு கோப்புறையில் &apos;!&apos; இது சாவா பிரச்சினைகளை ஏற்படுத்தும் என்று அறியப்படுகிறது!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2238"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்களிடம் இப்போது இரண்டு விருப்பங்கள் உள்ளன: &lt;br/&gt; - அமைப்புகளில் நிகழ்வு கோப்புறையை மாற்றவும் &lt;br/&gt; - இந்த %1 இன் நிறுவலை வேறு கோப்புறைக்கு நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>இது ஒரு சிக்கல்: &lt;br/&gt; - இயக்க முறைமையின் எச்சரிக்கை இல்லாமல் துவக்கி நீக்கப்படும் &lt;br/&gt; - இப்போது துவக்கியை மூடி, உண்மையான இடத்திற்கு பிரித்தெடுக்கவும், தற்காலிக கோப்புறை அல்ல</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2254"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் நிகழ்வு கோப்புறையில் &apos;ரார் $&apos; உள்ளது - அதாவது நீங்கள் லாஞ்சர் காப்பகத்தை பிரித்தெடுக்கவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் நிகழ்வு கோப்புறை ஒரு தற்காலிக கோப்புறையில் உள்ளது: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2275"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>மொத்த விளையாட்டு நேரம்: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும் செய்தி ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 பற்றிய கூடுதல் செய்திகளைப் படிக்க மேம்பாட்டு வலைப்பதிவைத் திறக்கவும்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்திகளை ஏற்றுகிறது ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி எதுவும் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வை சிப் கோப்பாக ஏற்றுமதி செய்யுங்கள்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த %1 மேட்ரிக்ச் இடம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த %1 டிச்கார்ட் கில்ட்.</translation>
     </message>
 </context>
 <context>
@@ -4150,12 +4198,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="15"/>
         <source>Checking for migration eligibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்பெயர்வு தகுதியை சரிபார்க்கிறது.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation type="unfinished"></translation>
+        <translation>இடம்பெயர்வு கொடிகள் கிடைத்தன</translation>
     </message>
 </context>
 <context>
@@ -4166,7 +4214,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -4174,47 +4222,47 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="806"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;கிளையண்ட் டோக்கன்&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="814"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>உடைந்த</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>, last played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, கடைசியாக %1 க்கு விளையாடியது</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="911"/>
         <source>, has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>, செயலிழந்தது.</translation>
     </message>
 </context>
 <context>
@@ -4222,7 +4270,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -4230,134 +4278,134 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>விண்டர் அளவு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft &amp; அதிகபட்சம் தொடங்கவா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம் &amp; உயரம்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>சாளரம் &amp; அகலம்:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>சொந்த நூலகப் பணிகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; Glfw இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; Openal இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்திறன்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு நேரம்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>செலவழித்த நேரத்தைக் காட்டு மற்றும் நிகழ்வுகளை விளையாடுங்கள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா நிகழ்வுகளிலும் விளையாடுவதற்கான நேரத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="199"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பதிவு நேரம் விளையாடியது</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு வெளியே அல்லது செயலிழந்த பிறகு துவக்கி தானாகவே வெளியேறும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்றவை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; விளையாட்டு செயலிழக்கும்போது அல்லது வெளியேறும்போது துவக்கி தானாகவே மீண்டும் திறக்கப்படும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டு சாளரம் திறந்த பிறகு துவக்கியை மூடு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
