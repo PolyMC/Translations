@@ -2106,7 +2106,7 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>La suppression des fichiers obsolètes a échoué.</translation>
     </message>
 </context>
 <context>
@@ -2115,18 +2115,18 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
         <location filename="src/launcher/InstanceImportTask.cpp" line="84"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Téléchargement du pack de mods :
+        <translation>Téléchargement du modpack:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="93"/>
         <source>Modpack download</source>
-        <translation>Téléchargement du pack de mods</translation>
+        <translation>Téléchargement du modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
         <source>Extracting modpack</source>
-        <translation>Extraction du pack de mods</translation>
+        <translation>Extraction du modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="138"/>
