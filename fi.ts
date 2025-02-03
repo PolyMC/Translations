@@ -269,7 +269,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation>Kiitettävää</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
