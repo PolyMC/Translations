@@ -166,67 +166,67 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiqurasiyalar xaric edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 paket konfiqurasiyasını açmaq alınmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsiyonel modlar seçilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="742"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar endirilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dəstəklənməyən endirmə növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinməyən endirmə növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="886"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modları çıxarmaq alınmadı...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="897"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar xaric edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="970"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack quraşdırılır</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="982"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitabxana komponenti yaradıla bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinməyən yükləyici növü: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket komponenti yaradıla bilmədi</translation>
     </message>
 </context>
 <context>
@@ -234,78 +234,78 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqqında</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minecraftı idarə etməyi rahatlaşdıran və müxtəlif versiyaları eyni anda idarə etməyə icazə verən xüsusi launçer&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırılma tarixi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Töhvə verənlər</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenziya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Haqqında</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Haqqında</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırılma tarixi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal</translation>
     </message>
 </context>
 <context>
@@ -314,118 +314,118 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yoxlanmamış</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hazırdır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>İşləyir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vaxtı qutarıb</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gedib</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Məlumat yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bəli</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xeyr</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçi adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Növü</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miqrasiya edə bilər?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab Minecraft istifadəçi adı ilə ələqəlidir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesabın istifadəçi adı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab növü - Mojang və ya MSA.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesabın hal-hazırki statusu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Bu hesab Microsoft hesabına miqrasiya edə bilər?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ləğv olunub</translation>
     </message>
 </context>
 <context>
@@ -434,81 +434,82 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mojang hesabı əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan təyin et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skin yüklə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skini sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished"></translation>
+        <translation>Hal-hazırda aktiv olan skini sil və varsayılana qayıt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab tokenlərini yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xoş gəmisiniz!
+Əgər burda yenisizsə, &quot;Əlavə et&quot; düyməsinə basaraq Minecaft və ya Mojang hesabınızı əlavə edə bilərsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontekst menyusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zəhmət olmasa Mojang hesabınızın email və parolunu daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabı əlçatan deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -516,48 +517,50 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesabları ancaq macOS 10.13 və daha yeni versiyalardaç tam güncələşdirilmiş %1-də, işləkdir
+
+Zəhmət olmasa əməlliyat sistemini və %1i güncəlləyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Skini Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skini silmək alınmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesablar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn hesab əlavə et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəta baş verdi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oflayn hesab əlavə etməzdən əvvəl Minecraft-a sahib olan Microsoft və ya Mojang hesabını əlavə etməlisiniz.&lt;br&gt;&lt;br&gt;Hesabınızı itirmisinizsə, dəstək üçün Microsoft ilə əlaqə saxlaya bilərsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>İstədiyiniz oflayn istifadəçi adını daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication client ID təyin olunmadı.</translation>
     </message>
 </context>
 <context>
@@ -565,47 +568,47 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Auth serverlərinə istək göndərilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulama alındı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulama serverinə qoşula bilmədi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulama zamanı xəta baş verdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulamaq alınmadı. Sessiya müddəti başa çatıb.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulamaq alınmadı. Hesab artıq mövcud deyil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Naməlum hesab tapşırıq vəziyyəti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Müştəri ID-si dəyişdi. Yeni sessiya yaradılmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -613,12 +616,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abort edildi</translation>
     </message>
 </context>
 <context>
@@ -626,40 +629,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Asset indeksi yenilənir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>% üçün asset indeksi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abort edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv indeksini oxumaq alınmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang-dan asset faylları əldə edilir...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Assetlərin indeksini endirmək alınmadı:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivlər endirmək alınmadı:
+%1</translation>
     </message>
 </context>
 <context>
@@ -668,19 +673,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Populyarlığa görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ada görə sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Oyun Versiyasına görə sırala</translation>
     </message>
 </context>
 <context>
@@ -688,42 +693,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırmaq üçün Modları seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Tövsiyə olunanları seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaşım Kodunu istifadə edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamısını silin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaşım Kodunu seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaşım kodu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Paylaşım kodu göstərilməyib!</translation>
     </message>
 </context>
 <context>
@@ -731,12 +736,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modu aktivləşdirmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəbərdarlıq</translation>
     </message>
 </context>
 <context>
@@ -744,18 +749,18 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xəbərdarlıq: Bu hələ davam edən işdir. İdxal edilmiş modpack ilə bağlı problemlərlə üzləşsəniz, bu, bug ola bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Axtar və filterlə...</translation>
     </message>
 </context>
 <context>
@@ -763,22 +768,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 üçün versiya hazırda mövcud deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>Hazırda heç bir versiya mövcud deyil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiya siyahılarını yükləmək və ya endirmək mümkün olmadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Quraşdırılır</translation>
     </message>
 </context>
 <context>
@@ -786,17 +791,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Bütün autentifikasiya addımlarını tamamladı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlanılır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklənir...</translation>
     </message>
 </context>
 <context>
@@ -804,7 +809,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler dayandırıldı</translation>
     </message>
 </context>
 <context>
@@ -812,7 +817,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamsını aç</translation>
     </message>
 </context>
 <context>
@@ -820,12 +825,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Cape taxılır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Cape çıxarılır</translation>
     </message>
 </context>
 <context>
@@ -833,7 +838,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yoxlayıcı kitabxanası tapılmadı. Zəhmət olmasa quraşdırmanızı yoxlayın.</translation>
     </message>
 </context>
 <context>
@@ -841,32 +846,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod provayderi seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modu keçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hər şeyi keç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hər şeyi təsdiqlə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Təsdiq et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş provayder uğursuz olarsa, avtomatik olaraq digər provayderlərdən istifadə etməyə çalışın</translation>
     </message>
 </context>
 <context>
@@ -875,12 +880,12 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abort edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bəzi komponent metadata yükləmə tapşırıqları alınmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
