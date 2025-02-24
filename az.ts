@@ -890,7 +890,7 @@ Zəhmət olmasa əməlliyat sistemini və %1i güncəlləyin.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>Asılılığın yoxlanılması zamanı ziddiyyətli tələblər aşkar edildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
