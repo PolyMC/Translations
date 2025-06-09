@@ -7,101 +7,101 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>⁊Seirbhís Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seirbhís Greamaigh ⁊Clóscríobh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunsraith ⁊URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Is dócha a maith leat athraigh nó glan an URL Bunsraith tar éis athrú an saghas seirbhís greamaigh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Eochracha API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fíordheimhniú ⁊Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Is dócha ní gá duit seo a chuir má tá logáil isteach trí Fíordheimhniú Microsoft ag oibriú cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Réamhshocrú)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir cliant ID saincheaptha do Fíordheimhniú Microsoft anseo. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Éagsúil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Gníomhaire Úsáideoir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach Gníomhaire Úsáideoir saincheaptha anseo. Tógfaidh an teaghrán speisialta $LAUNCHER_VER áit an leagan den lainseálaí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Friothálaí Meta⁊sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Is féidir leat leag sin go friothálaí meta-sonraí tríú páirtí chun leabharlanna paiste nó haic eile a úsáid.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach URL saincheaptha do meta anseo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>⁊CurseForge API Croílár</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nóta: Is dócha ní gá duit seo a chuir má tá CurseForge ag oibriú cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach eochair API saincheaptha do CurseForge anseo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,8 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ní fhéadfadh tuig an beart soiléir:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
