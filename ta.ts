@@ -550,7 +550,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>நீங்கள் ஒரு இணைப்பில்லாத கணக்கைச் சேர்ப்பதற்கு முன் Minecraft ஐக் கொண்ட மைக்ரோசாப்ட் அல்லது மொசாங் கணக்கைச் சேர்க்க வேண்டும். &lt;br&gt; &lt;br&gt; உங்கள் கணக்கை இழந்தால் மைக்ரோசாப்ட் ஆதரவுக்காக தொடர்பு கொள்ளலாம்.</translation>
+        <translation>நீங்கள் ஒரு இணைப்பில்லாத கணக்கைச் சேர்ப்பதற்கு முன் Minecraft ஐக் கொண்ட மைக்ரோசாப்ட் அல்லது மொசாங் கணக்கைச் சேர்க்க வேண்டும். &lt;br&gt;&lt;br&gt; உங்கள் கணக்கை இழந்தால் மைக்ரோசாப்ட் ஆதரவுக்காகத் தொடர்பு கொள்ளலாம்.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
