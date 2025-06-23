@@ -2481,7 +2481,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
@@ -2696,7 +2696,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -2729,7 +2729,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="415"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Lainseáil</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
@@ -2739,7 +2739,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="452"/>
@@ -2816,7 +2816,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Gnéithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
@@ -2883,7 +2883,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
@@ -2940,12 +2940,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dathanna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Uirlisí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
@@ -3224,7 +3224,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -4003,7 +4003,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1701"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
@@ -4589,7 +4589,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -4777,7 +4777,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="264"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
@@ -4832,7 +4832,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
@@ -5490,7 +5490,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
@@ -7273,7 +7273,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
@@ -7509,7 +7509,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
