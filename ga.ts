@@ -1595,7 +1595,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuardaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -2326,7 +2326,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Droid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
@@ -4014,7 +4014,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1643"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhaidh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
@@ -4613,7 +4613,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhaidh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
@@ -4686,7 +4686,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuardaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
@@ -4837,7 +4837,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhaidh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
@@ -4858,7 +4858,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fáth: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
@@ -4904,7 +4904,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan sean: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
@@ -5045,7 +5045,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (leagan %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
@@ -5318,12 +5318,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grúpa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ainm:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
@@ -5345,12 +5345,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuacht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Droid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -6808,7 +6808,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuardaigh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
@@ -6837,12 +6837,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="463"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Teanga</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="467"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Iomláine</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="477"/>
@@ -6901,7 +6901,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Droid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
