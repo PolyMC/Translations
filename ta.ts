@@ -1002,7 +1002,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; நிகழ்வு தொடங்குவதற்கு முன்பே இயங்குவதற்கு முன்பே இயங்குகிறது மற்றும் அதற்குப் பிறகு வெளியேற்றும் கட்டளை இயங்கும். சுற்றுச்சூழல் மாறிகள்: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; $ inst_name - உதாரணத்தின் பெயர் &lt;/li&gt; &lt;li&gt; $ inst_id - உதாரணத்தின் ஐடி (அதன் கோப்புறை பெயர்) &lt;/li&gt; &lt;li&gt; $ inst_dir - முழுமையானது உதாரணத்தின் பாதை &lt;/li&gt; &lt;li&gt; $ inst_mc_dir - Minecraft இன் முழுமையான பாதை &lt;/li&gt; &lt;li&gt; $ inst_java - துவக்கத்திற்குப் பயன்படுத்தப்படும் சாவா பைனரி &lt;/li&gt; &lt;li&gt; $ inst_java_args - துவக்கத்திற்கு பயன்படுத்தப்படும் கட்டளை -வரி அளவுருக்கள் . html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; நிகழ்வு தொடங்குவதற்கு முன்பே இயங்குவதற்கு முன்பே இயங்குகிறது மற்றும் அதற்குப் பிறகு வெளியேற்றும் கட்டளை இயங்கும். &lt;/p&gt;&lt;p&gt;சுற்றுச்சூழல் மாறிகள்: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; $INST_NAME - நிகழ்வின் பெயர் &lt;/li&gt; &lt;li&gt; $INST_ID - நிகழ்வின் ஐடி (அதன் கோப்புறை பெயர்) &lt;/li&gt; &lt;li&gt; $INST_DIR - முழுமையானது நிகழ்வின் பாதை &lt;/li&gt; &lt;li&gt; $INST_MC_DIR - Minecraft இன் முழுமையான பாதை &lt;/li&gt; &lt;li&gt; $INST_JAVA - துவக்கத்திற்குப் பயன்படுத்தப்படும் சாவா பைனரி &lt;/li&gt; &lt;li&gt; $INST_JAVA_ARGS - துவக்கத்திற்கு பயன்படுத்தப்படும் கட்டளை -வரி அளவுருக்கள்(எச்சரிக்கை: வாதங்கள் இடைவெளிகளைக் கொண்டிருந்தால் சரியாக வேலை செய்யாது)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper கட்டளை கூடுதல் ரேப்பர் நிரலைப் பயன்படுத்தி (லினக்ஸில் &apos;optirun&apos; போன்றது) தொடங்க அனுமதிக்கிறது&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1908,7 +1908,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth modpacks (ZIP and mrpack)</translation>
+        <translation>- மோட்ரிந்த் மாடோட்பேக்குகள் (சுருக்கு மற்றும் mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -2191,7 +2191,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
+        <translation>விளையாட்டுச் சாளரம் முடிந்ததும் துவக்கியை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2959,7 +2959,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span சூல் தண்டு = &quot;font-Weight: 600; வண்ணம்:#F5C211;&quot;&gt; எச்சரிக்கை &lt;/span&gt; &lt;span சூல் தண்டு = &quot;color:#f5c211;&quot;&gt;: முடக்குதல் மோட் மேனிலை தரவு மோட் புதுப்பித்தல் போன்ற சில QOL அம்சங்களையும் முடக்கலாம்!</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt; எச்சரிக்கை &lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: முடக்குதல் மோட் மேனிலை தரவு மோட் புதுப்பித்தல் போன்ற சில QOL அம்சங்களையும் முடக்கலாம்!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -4247,7 +4247,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation>சுரங்ககைவினை %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
@@ -4383,12 +4383,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
+        <translation>விளையாட்டுச் சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>சுரங்ககைவினை</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -4860,7 +4860,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>மோட் பெயர்: %1 &lt;br&gt; கோப்பு பெயர்: %2 &lt;br&gt; காரணம்: %3 &lt;br&gt; &lt;br&gt;</translation>
+        <translation>மோட் பெயர்: %1 &lt;br&gt;கோப்புப் பெயர்: %2&lt;br&gt;காரணம்: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
@@ -5359,7 +5359,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation>ஒஅடையாளம்</translation>
     </message>
 </context>
 <context>
@@ -6104,7 +6104,7 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>குறிப்பிட்ட சாவா பைனரி சரியாகத் தொடங்கவில்லை. &lt;Br /&gt;</translation>
+        <translation>குறிப்பிட்ட சாவா பைனரி சரியாகத் தொடங்கவில்லை. &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="307"/>
@@ -6115,7 +6115,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="318"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>சாவா சோதனை செய் பெற்றது!</translation>
+        <translation>சாவா சோதனை வெற்றி பெற்றது!&lt;br /&gt;அறிக்கை தளம்: %1&lt;br /&gt;அறிக்கை சாவா பதிப்பு: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
@@ -6200,7 +6200,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="76"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>பதிவேற்றிய பதிவுக்கான &lt;a href = &quot;%1&quot;&gt; இணைப்பு உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;பதிவேற்றிய பதிவுக்கான இணைப்பு&lt;/a&gt; உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
@@ -6260,7 +6260,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>சாவா சோதனை செய் பெற்றது!</translation>
+        <translation>சாவா சோதனை வெற்றி பெற்றது!&lt;br /&gt;அறிக்கை தளம்: %1&lt;br /&gt;அறிக்கை சாவா பதிப்பு: %2&lt;br /&gt;அறிக்கை சாவா விற்பனையாளர்: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -6277,7 +6277,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>குறிப்பிட்ட சாவா பைனரி வேலை செய்யவில்லை. &lt;Br /&gt; நீங்கள் தானாக கண்டறியும் அம்சத்தைப் பயன்படுத்த வேண்டும், அல்லது சாவா இயங்கக்கூடிய பாதையை அமைக்க வேண்டும். &lt;br /&gt;</translation>
+        <translation>குறிப்பிட்ட சாவா பைனரி வேலை செய்யவில்லை. &lt;br /&gt;நீங்கள் தானாகக் கண்டறியும் அம்சத்தைப் பயன்படுத்த வேண்டும், அல்லது சாவா இயங்கக்கூடிய பாதையை அமைக்க வேண்டும். &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
@@ -6472,12 +6472,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="407"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>பதிவேற்றிய ச்கிரீன்சாட்டுக்கான &lt;a href = &quot;%1&quot;&gt; இணைப்பு உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;பதிவேற்றிய ச்கிரீன்சாட்டுக்கான இணைப்பு&lt;/a&gt; உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>பதிவேற்றிய ஆல்பத்திற்கான &lt;a href = &quot;%1&quot;&gt; இணைப்பு உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;பதிவேற்றிய ஆல்பத்திற்கான  இணைப்பு&lt;/a&gt; உங்கள் கிளிப்போர்டில் வைக்கப்பட்டுள்ளது.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
@@ -6996,7 +6996,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation>&lt;சென்டர்&gt; &lt;H1&gt; சேஞ்ச்லாக் ஏற்றுதல் ... &lt;/h1&gt; &lt;/senter&gt;</translation>
+        <translation>&lt;center&gt;&lt;h1&gt;மாற்றுபதிவு ஏற்றுதல் ... &lt;/h1&gt; &lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="200"/>
@@ -7499,7 +7499,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>சுரங்ககைவினை</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
@@ -7744,8 +7744,9 @@ The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
         <translation>இது தேர்ந்தெடுக்கப்பட்ட வார்த்தையை நிரந்தரமாக அகற்றும்.
- உலகம் என்றென்றும் போய்விடும் (நீண்ட நேரம்).
- நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
+உலகம் என்றென்றும் போய்விடும் (நீண்ட நேரம்).
+
+நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
@@ -7985,7 +7986,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt; எச்.எச்.எல் ஏண்ட்சேக் தோல்வியடைந்தது. . &lt;/li&gt; &lt;li&gt; உங்கள் பிணையத்தில் உள்ள சில சாதனம் SSL போக்குவரத்தில் குறுக்கிடுகிறது. அவ்வாறான நிலையில், Minecraft தொடங்காததை விட உங்களுக்கு பெரிய கவலைகள் உள்ளன. &lt;/Li&gt; &lt;li&gt; வேறு ஏதாவது இருக்கலாம். விவரங்களுக்கு பதிவு கோப்பை சரிபார்க்கவும் &lt;/li&gt; &lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;பாகுஅ கைகுளுக்கல் தோல்வியடைந்தது.&lt;/b&gt;&lt;br/&gt;அதற்குச் சில காரணங்கள் இருக்கலாம்:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;நீங்கள் விண்டோஸைப் பயன்படுத்துகிறீர்கள், உங்கள் ரூட் சான்றிதழ்களைப் புதுப்பிக்க வேண்டும், தயவுசெய்து நிலுவையில் உள்ள புதுப்பிப்புகளை நிறுவவும்.&lt;/li&gt; &lt;li&gt; உங்கள் பிணையத்தில் உள்ள சில சாதனம் SSL போக்குவரத்தில் குறுக்கிடுகிறது. அவ்வாறான நிலையில், Minecraft தொடங்காததை விட உங்களுக்குப் பெரிய கவலைகள் உள்ளன. &lt;/li&gt;&lt;li&gt; வேறு ஏதாவது இருக்கலாம். விவரங்களுக்குப் பதிவுக் கோப்பை சரிபார்க்கவும் &lt;/li&gt; &lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
