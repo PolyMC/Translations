@@ -275,7 +275,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Faoi Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
@@ -362,13 +362,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Is féidir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -596,7 +596,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
@@ -619,7 +619,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1221"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag uasdátú an innéacs hacmhainní...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
@@ -638,7 +638,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -876,7 +876,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1362,7 +1362,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -1930,7 +1930,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
 </context>
 <context>
@@ -2204,13 +2204,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="355"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="528"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Éagsúil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmiú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
@@ -3297,7 +3297,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4168,7 +4168,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
 </context>
 <context>
@@ -4196,7 +4196,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>briste</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
@@ -4224,7 +4224,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
 </context>
 <context>
@@ -4272,7 +4272,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Feidhmiú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
@@ -4347,7 +4347,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Éagsúil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -4453,7 +4453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Iontráil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
@@ -4515,7 +4515,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Aon leagan</translation>
     </message>
 </context>
 <context>
@@ -4523,22 +4523,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="75"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="77"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhad</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="118"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="120"/>
@@ -4601,7 +4601,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -5555,17 +5555,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="374"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cealaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="641"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="643"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
 </context>
 <context>
@@ -5699,7 +5699,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
@@ -6231,7 +6231,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="444"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="446"/>
@@ -6274,7 +6274,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
@@ -6444,7 +6444,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="333"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="335"/>
@@ -7394,7 +7394,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
 </context>
 <context>
@@ -7402,7 +7402,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="111"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
@@ -7523,7 +7523,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
