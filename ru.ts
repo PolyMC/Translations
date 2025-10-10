@@ -55,23 +55,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: возможно, вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
+        <translation>Примечание: возможно, вам не нужно изменять это, еhiсли вход в аккаунт Microsoft уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation>(По умолчанию)</translation>
+        <translation>russian(По умолчанию)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Введите здесь собственный client ID для аутентифкации Microsoft. </translation>
+        <translation>russ </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation>Прочие</translation>
+        <translation>Miscellaneous</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
