@@ -435,11 +435,11 @@
             "untranslated" : 1364
         },
         "tr" : {
-            "file" : "e209b3d8ba7c8002c8f2d613930aea801400a652.class",
-            "sha1" : "e209b3d8ba7c8002c8f2d613930aea801400a652",
-            "size" : 196565,
-            "translated" : 1391,
-            "fuzzy" : 23,
+            "file" : "e4e78663a7eb9830922deff4f855ca1d7b4f96c8.class",
+            "sha1" : "e4e78663a7eb9830922deff4f855ca1d7b4f96c8",
+            "size" : 196561,
+            "translated" : 1398,
+            "fuzzy" : 16,
             "untranslated" : 0
         },
         "uk" : {
