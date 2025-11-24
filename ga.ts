@@ -5785,7 +5785,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Saghas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -7298,7 +7298,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -7329,7 +7329,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Select Forge version</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
@@ -7344,7 +7344,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Select Fabric Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan Fabric Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="485"/>
@@ -7359,7 +7359,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
@@ -7374,7 +7374,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
         <source>Select LiteLoader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh leagan LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
@@ -7407,57 +7407,57 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Craobh</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Saghas</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ailtireacht</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosán</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Eisithe</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>An ainm an leagain.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Craobh an leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Saghas an leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ailtireacht CPU</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
@@ -7472,18 +7472,18 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (suiteáilte)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Molta</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Is déanaí</translation>
     </message>
 </context>
 <context>
@@ -7491,7 +7491,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="81"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
