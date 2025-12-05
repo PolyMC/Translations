@@ -419,11 +419,11 @@
             "untranslated" : 0
         },
         "th" : {
-            "file" : "b7604ddffda24a8640b58e0e110e3377d1202259.class",
-            "sha1" : "b7604ddffda24a8640b58e0e110e3377d1202259",
-            "size" : 36914,
-            "translated" : 247,
-            "fuzzy" : 100,
+            "file" : "dfbc56d0dd8072ef78c85a69cc4f9d225c8955f5.class",
+            "sha1" : "dfbc56d0dd8072ef78c85a69cc4f9d225c8955f5",
+            "size" : 36866,
+            "translated" : 251,
+            "fuzzy" : 96,
             "untranslated" : 1067
         },
         "tok" : {
