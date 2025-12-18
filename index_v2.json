@@ -443,11 +443,11 @@
             "untranslated" : 0
         },
         "uk" : {
-            "file" : "381c13f448384b4e70f443a2f929f10f74e67ca3.class",
-            "sha1" : "381c13f448384b4e70f443a2f929f10f74e67ca3",
-            "size" : 192863,
-            "translated" : 1307,
-            "fuzzy" : 72,
+            "file" : "2d2ad166f5b97eb34b438cdbd94704bd5ef19800.class",
+            "sha1" : "2d2ad166f5b97eb34b438cdbd94704bd5ef19800",
+            "size" : 192859,
+            "translated" : 1310,
+            "fuzzy" : 69,
             "untranslated" : 35
         },
         "vi" : {
