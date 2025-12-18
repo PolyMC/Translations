@@ -1553,17 +1553,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Відсутня вказана тека перевизначень (%1). Можливо, мод-пак уже використовувався раніше?</translation>
+        <translation>Вказана папка перевизначень (%1) відсутня. Можливо, цей мод-пак вже використовувався раніше?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Невідомий завантажувач модів в маніфесті: %1</translation>
+        <translation>Невідомий завантажувач модів в маніфесті: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Таємничі кінцеві точки видалені із версії Minecraft під час імпортування пакету.</translation>
+        <translation>Загадкові кінцеві точки видалено з версії Minecraft під час імпорту паку.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
