@@ -1587,7 +1587,7 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">De mystérieuses informations ont été retirés de la version de Minecraft lors de l&apos;importation du pack.</translation>
+        <translation type="unfinished">Des informations ont été retirés de la version de Minecraft lors de l&apos;importation du pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
@@ -1619,7 +1619,7 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Ce &quot;dossier&quot; pourrait avoir besoin d&apos;être extrait&#xa0;: %1</translation>
+        <translation>Ce &quot;dossier&quot; a peut-être besoin d&apos;être extrait: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
@@ -1634,7 +1634,7 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Téléchargement des mods...</translation>
+        <translation>Téléchargement de mods...</translation>
     </message>
 </context>
 <context>
@@ -2101,7 +2101,7 @@ NOTE : N&apos;oubliez pas de créer une copie des données importantes de l&apos
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression d&apos;anciens fichiers conflictuels...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
@@ -2864,7 +2864,7 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Afin de jouer à Minecraft, vous devez avoir au moins un compte Mojang ou Minecraft connecté à PolyMC. Voulez-vous ouvrir le gestionnaire de comptes pour ajouter un compte maintenant ?</translation>
+        <translation>Afin de jouer à Minecraft, vous devez avoir au moins un compte Microsoft ou Mojang connecté à PolyMC. Les comptes Mojang peuvent être utilsés uniquement hors-ligne.  Voulez-vous ouvrir le gestionnaire de comptes pour ajouter un compte maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -4948,7 +4948,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvre une nouvelle fenêtre pour revoir et confirmer ta sélection de mods. Raccourci: Ctrl+Retour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
@@ -5627,7 +5627,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
@@ -5639,7 +5639,9 @@ Veuillez mettre à jour %1 !</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ou plusieurs de vos instances viennent de ce même pack de mods%1. Voulez-vous créer une instance séparée, ou mettre à jour celle qui existe déjà?
+
+NOTE: Soyez sûr que vous avez fait une backup (fichier de récupération) de vos données d&apos;instances importantes avant la mise à jour, si vous ne l&apos;avez pas fait, vos mondes peuvent être corrompues et votre configuration peut être perdue (à cause de la redéfinition des packs).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
@@ -5664,20 +5666,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous n&apos;avons pas pu trouver de fichier d&apos;index approprié pour la version plus ancienne. Cela peut causer une duplication de certains fichiers. Voulez-vous continuer?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Impossible de renommer le dossier &quot;overrides&quot; :
+        <translation>Impossible de renommer le fichier de redéfinitions&#xa0;:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="199"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished">Impossible de renommer le dossier overrides du client :
+        <translation>Impossible de renommer le dossier de redéfinitions du client&#xa0;:
 </translation>
     </message>
     <message>
@@ -5693,12 +5695,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished">Mod optionnel détecté !</translation>
+        <translation type="unfinished">Mod optionnel détecté&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">Un ou plusieurs mods de ce modpack sont optionnels. Ils seront téléchargés, mais désactivés par défaut !</translation>
+        <translation>Un ou plusieurs mods de ce pack de mods sont optionnels. Ils seront téléchargés, mais désactivés par défaut&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -5850,12 +5852,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les tentatives ont échouées!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentative de tâche %1 sur %2</translation>
     </message>
 </context>
 <context>
@@ -5885,7 +5887,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>Echec de l&apos;interruption de toutes les tâches dans le NetJob!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
@@ -6897,7 +6899,10 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom d&apos;instance à l&apos;air d&apos;inclure l&apos;ancienne version. Voulez-vous le mettre à jour?
+
+Ancien nom: %1
+Nouveau nom: %2</translation>
     </message>
 </context>
 <context>
@@ -6910,7 +6915,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="446"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dernier a été modifié</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="454"/>
@@ -6922,13 +6927,13 @@ New name: %2</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="457"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le nom de la ressource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="460"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La date et l&apos;heure où cette ressource a été changée pour la dernière fois (ou ajoutée).</translation>
     </message>
 </context>
 <context>
@@ -6940,14 +6945,14 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Non-reconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;identifiant du format du pack de ressource, selon la version de Minecraft pour laquelle il a été concu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
@@ -6957,7 +6962,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de pack</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -6967,7 +6972,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Est-ce que le pack de ressource est activé? (Marche uniquement pour les ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -7113,7 +7118,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Une des tâches a échouée!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
