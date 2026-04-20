@@ -2878,7 +2878,7 @@ Vai vēlaties spēlēt demonstrāciju?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>Client identification changed</source>
-        <translation type="unfinished">klienta identifikācija mainījšies</translation>
+        <translation>Klienta identifikācija mainījšies</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="306"/>
