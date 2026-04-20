@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Paste Serviss&amp;Veids</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Bāze &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Citi</translation>
+        <translation>Citi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;datu serveris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -254,7 +254,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Būvējuma numurs:</translation>
+        <translation>Būvējuma numurs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
@@ -294,7 +294,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzņemšanās: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft lietotājvārds, kas saistīts ar kontu.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -455,37 +455,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Pievienot Mojang</translation>
+        <translation>Pievienot &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>Noņe&amp;mt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Lietot kā noklusējumu</translation>
+        <translation>Lietot kā noklusējumu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Nelietot kā noklusējumu</translation>
+        <translation>Nelietot kā noklusējumu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Augšupielādēt skinu</translation>
+        <translation>Augšupielādēt skinu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Izdzēst Skinu</translation>
+        <translation>Izdzēst Skinu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -496,19 +496,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Pievienot Microsoft</translation>
+        <translation>Pievienot Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pievieno &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -530,7 +530,7 @@ Ja esat šeit pirmo reizi, varat pievienot savu Mojang vai Microsoft kontu ar po
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished">Nav iestatīts Microsoft autentifikācijas klienta ID.</translation>
+        <translation>Nav iestatīts Microsoft autentifikācijas klienta ID.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -554,7 +554,9 @@ Ja esat šeit pirmo reizi, varat pievienot savu Mojang vai Microsoft kontu ar po
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft konti ir izmantojami tikai operētājsistēmā macOS 10.13 vai jaunākā versijā ar pilnībā atjauninātu %1
+
+Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -564,7 +566,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished">Pirms bezsaistes konta pievienošanas jums ir jāpievieno Microsoft vai Mojang konts, kuram pieder Minecraft. Ja esat pazaudējis savu kontu, varat sazināties ar korporāciju Microsoft, lai saņemtu atbalstu.</translation>
+        <translation>Pirms bezsaistes konta pievienošanas jums ir jāpievieno Microsoft vai Mojang konts, kuram pieder Minecraft. Ja esat pazaudējis savu kontu, varat sazināties ar korporāciju Microsoft, lai saņemtu atbalstu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -747,7 +749,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished">DalĪšana kods nav noradīts!</translation>
+        <translation>DalĪšana kods nav noradīts!</translation>
     </message>
 </context>
 <context>
@@ -852,7 +854,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished">Atver viss</translation>
+        <translation>Atver viss</translation>
     </message>
 </context>
 <context>
@@ -881,7 +883,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished">Izvelies modu provideru</translation>
+        <translation>Izvelies modu provideru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -896,7 +898,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished">Apstiprināt par visiem</translation>
+        <translation>Apstiprināt par visiem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
@@ -906,7 +908,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished">Mēģiniet automātiski izmantot citus providerus, ja izvēlētais neizdodas</translation>
+        <translation>Mēģiniet automātiski izmantot citus providerus, ja izvēlētais neizdodas</translation>
     </message>
 </context>
 <context>
@@ -915,7 +917,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Atcelts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -950,7 +952,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished">Neizdevās pārtraukt visus izpildāmos uzdevumus.</translation>
+        <translation>Neizdevās pārtraukt visus izpildāmos uzdevumus.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
@@ -1031,13 +1033,13 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Iesaiņojuma Komanda:</translation>
+        <translation>Iesaiņojuma Komanda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pirms palaišanas komanda tiek izpildīta pirms instances palaišanas, un pēc aizvēršanas komanda tiek izpildīta pēc tās apturēšanas.&lt;/p&gt;&lt;p&gt;Abas komandas tiks izpildītas palaišanas programmas darba mapē ar papildu vides mainīgajiem:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instances nosaukums&lt;/li&gt;&lt;li&gt;$INST_ID - Instances ID (tās mapes nosaukums)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolūtais ceļš uz instanci&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolūtais ceļš uz Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java izpildfaila ceļš, kas tiek izmantots palaišanai&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - komandrindas parametri, kas tiek izmantoti palaišanai (brīdinājums: var nedarboties korekti, ja argumentos ir atstarpes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ietvara (wrapper) komanda ļauj palaist, izmantojot papildu ietvara programmu (piemēram, &apos;optirun&apos; uz Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pirms palaišanas komanda tiek izpildīta pirms instances palaišanas, un pēc aizvēršanas komanda tiek izpildīta pēc tās apturēšanas.&lt;/p&gt;&lt;p&gt;Abas komandas tiks izpildītas palaišanas programmas darba mapē ar papildu vides mainīgajiem:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instances nosaukums&lt;/li&gt;&lt;li&gt;$INST_ID - Instances ID (tās mapes nosaukums)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolūtais ceļš uz instanci&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolūtais ceļš uz Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java izpildfaila ceļš, kas tiek izmantots palaišanai&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - komandrindas parametri, kas tiek izmantoti palaišanai (brīdinājums: var nedarboties korekti, ja argumentos ir atstarpes)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ietvara (wrapper) komanda ļauj palaist, izmantojot papildu ietvara programmu (piemēram, &apos;optirun&apos; uz Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1175,7 +1177,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished">Darbības</translation>
+        <translation>Darbības</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
@@ -1190,7 +1192,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>&amp;Noņemt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
@@ -1200,7 +1202,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">Iespējot</translation>
+        <translation>Iespējot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
@@ -1210,7 +1212,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">Atspējot</translation>
+        <translation>Atspējot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
@@ -1225,7 +1227,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Atvērt &apos;config&apos; folderi sistēmas failu pārlūkā.</translation>
+        <translation>Atvērt &apos;config&apos; folderi sistēmas failu pārlūkā.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
@@ -1256,13 +1258,13 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
         <source>Context menu</source>
-        <translation type="unfinished">Konteksta izvēlne</translation>
+        <translation>Konteksta izvēlne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="151"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Izvēlēties %1</translation>
+        <translation>Izvēlēties %1</translation>
     </message>
 </context>
 <context>
@@ -1496,7 +1498,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versija %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
@@ -2628,7 +2630,7 @@ PIEZĪME: Pirms atjaunināšanas pārliecinieties, ka esat izveidojis svarīgo i
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izlaist Java saderības pārbaudes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2722,7 +2724,7 @@ Java versiju var mainīt iestatījumos vēlāk.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Jums nav strādājošs Java iestatīts vai tas pazuda
+        <translation>Jums nav strādājošs Java iestatīts vai tas pazuda
 Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</translation>
     </message>
 </context>
@@ -2765,7 +2767,7 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādīti nederīgi Java argumenti. Lūdzu, vispirms labojiet to.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2776,7 +2778,7 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Lai spēlētu Minecraft, jums ir jābūt pieslēgtam vismaz vienam Mojang vai Minecraft kontam. Vai vēlaties atvērt kontu pārvaldnieku, lai pievienotu kontu?</translation>
+        <translation>Lai spēlētu Minecraft, jums ir jābūt pieslēgtam vismaz vienam Mojang vai Minecraft kontam. Vai vēlaties atvērt kontu pārvaldnieku, lai pievienotu kontu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -2795,12 +2797,12 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Turpināt palaišanu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Izskatās, ka mēs nevarējām palaist pēc %1 mēģinājumiem. Vai vēlaties turpināt mēģināt?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -2815,7 +2817,7 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties demonstrācijas režīma atskaņotāja vārdu.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -2825,7 +2827,7 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="239"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spēlēt demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="240"/>
@@ -2833,22 +2835,25 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Šim kontam nepieder Minecraft. 
+Lai to spēlētu, vispirms jums ir jāiegādājas spēle. 
+
+Vai vēlaties spēlēt demonstrāciju?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Spēlet Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaišana atcelta - kontam nepieder Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="269"/>
@@ -2868,12 +2873,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaidēja klienta identifikācija ir mainījusies. Lūdzu, noņemiet šo kontu un pievienojiet to vēlreiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klienta identifikācija mainījšies</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="306"/>
@@ -2971,7 +2976,8 @@ Jums Iespējams vajadzētu labot jūsu modifikācijas jo spēle vēl pieslēdzā
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtrauca skatīties spēļu žurnālu, jo žurnāla garums pārsniedza %1 rindas.
+Jums, iespējams, būs jālabo modifikācijas, jo spēle joprojām piesakās failiem un, iespējams, satraucošā ātrumā izšķērdē vietu cietajā diskā!</translation>
     </message>
 </context>
 <context>
