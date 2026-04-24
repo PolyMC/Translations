@@ -2442,7 +2442,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Set a server to join on launch</source>
-        <translation>Selecciona un servidor per unir-se al llençar</translation>
+        <translation>Selecciona un servidor per unir-se al llançar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="586"/>
@@ -3304,7 +3304,7 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>No s&apos;ha pogut llençar Minecraft!</translation>
+        <translation>No s&apos;ha pogut llançar Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
@@ -3954,7 +3954,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Llençar</translation>
+        <translation>&amp;Llançar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
@@ -4088,7 +4088,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Launch &amp;Offline</source>
-        <translation>Llençar fora de &amp;línia</translation>
+        <translation>Llança fora de &amp;línia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
