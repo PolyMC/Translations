@@ -65,17 +65,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>أدخل وكيل مستخدم مخصص هنا. سيتم استبدال السلسلة الخاصة $LAUNCHER_VER بإصدار المشغّل.</translation>
+        <translation>أدخل وكيل المستخدم المخصص هنا. العبارة المميزة $LAUNCHER_VER سيتم استبدالها بنسخة اللانشر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>خادم التعريف والبيانات.</translation>
+        <translation>سيرفر البيانات الوصفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>يمكنك ضبط هذا على خادم بيانات تعريف تابع لجهة خارجية لاستخدام المكتبات المصححة أو عمليات الاختراق الأخرى.</translation>
+        <translation>يمكنك تعيين هذا الحقل إلى عنوان خادم البيانات الوصفية لاستخدام مكاتب معدّلة أو لإنجاز تعديلات أخرى.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -131,12 +131,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation>حذف ملفات موجودة</translation>
+        <translation>جاري حذف الملفات السابقة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>تعديل غير معروف بنسبة 1%</translation>
+        <translation>نوع مود غير مدعوم: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
