@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>أدخل معرف عميل مخصص لمصادقة مايكروسوفت هنا. </translation>
+        <translation>أدخل رقم العميل هنا لمصادقة مايكروسوفت. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>وكيل المستخدم</translation>
+        <translation>وكيل المستخدم (http)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>واجهات برمجة التطبيقات (APIs)</translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -216,7 +216,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="982"/>
         <source>Failed to create libraries component</source>
-        <translation>فشل في إنشاء مكوّن المكتبات</translation>
+        <translation>فشل إنشاء عناصر المكاتب</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
@@ -863,7 +863,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>لم يتم العثور على مكتبة مدقق جافا. يرجى التحقق من تثبيتك.</translation>
+        <translation>لم يتم العثور على مكتبة checker لجافا. الرجاء فحص ملفات التثبيت.</translation>
     </message>
 </context>
 <context>
