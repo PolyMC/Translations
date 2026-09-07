@@ -2050,7 +2050,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation>Importiere ZIP-Datei</translation>
+        <translation>Import aus ZIP-Datei</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
