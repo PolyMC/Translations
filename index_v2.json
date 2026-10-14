@@ -130,6 +130,14 @@
             "fuzzy" : 125,
             "untranslated" : 1289
         },
+        "eu" : {
+            "file" : "a329f04eee653f9276f9ffd61aa380b67459e33d.class",
+            "sha1" : "a329f04eee653f9276f9ffd61aa380b67459e33d",
+            "size" : 30,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1414
+        },
         "fa" : {
             "file" : "fa93db3bf18be8a3c0af231a10b9469151c0c497.class",
             "sha1" : "fa93db3bf18be8a3c0af231a10b9469151c0c497",
