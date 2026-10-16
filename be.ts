@@ -226,7 +226,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Стварэнне кампанента пакета не ўдалося</translation>
     </message>
 </context>
 <context>
@@ -244,13 +244,13 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Дата будаўніцтва:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
@@ -265,22 +265,22 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтарскі склад</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліцэнзія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Пра Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
@@ -290,7 +290,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата будаўніцтва: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
@@ -314,37 +314,37 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неправерана</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Афлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Гатовы</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Працуе</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скончаны</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
@@ -356,39 +356,39 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Так</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя карыстальніка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Уліковы запіс</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тып</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
@@ -398,34 +398,34 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя карыстальніка Minecraft, звязанае з уліковым запісам.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя карыстальніка ўліковага запісу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тып уліковага запісу - Mojang або MSA.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бягучы стан ўліковага запісу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ці можа гэты ўліковы запіс перайсці ў уліковы запіс Microsoft?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адключаны</translation>
     </message>
 </context>
 <context>
@@ -434,7 +434,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
@@ -458,13 +458,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Загрузіць скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выдаліць скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
